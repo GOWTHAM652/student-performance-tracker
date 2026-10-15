@@ -1,0 +1,78 @@
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history/
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+# Uncomment the next line if you want to ignore VS Code settings
+#.vscode/
+
+# Flutter / Dart
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+.packages
+
+# Flutter generated files
+android/local.properties
+
+# Android build files
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment files
+.env
+.env.*
+
+# Firebase private credentials - NEVER upload
+serviceAccountKey.json
+*serviceAccountKey*.json
+*firebase-adminsdk*.json
+firebase-adminsdk-*.json
+google-services-admin.json
+
+# Firebase configuration files that may contain secrets
+# Review before committing if these contain private credentials
+firebase_options.dart
+
+# Logs and backups
+flutter_log.txt
+batch_backup_*.json
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.old
+
+# Build outputs
+dist/
+out/

@@ -1,0 +1,5452 @@
+[
+  {
+    "number": 105,
+    "old_id": "7376241CS105",
+    "old_email": "student105.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "CSE",
+      "Semester": 5,
+      "Email": "student105.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 88,
+        "Computer Networks": 97,
+        "Database Systems": 91,
+        "Programming": 82,
+        "Data Structures": 85,
+        "Artificial Intelligence": 62,
+        "Software Engineering": 100,
+        "Operating Systems": 94
+      },
+      "Name": "Student 105",
+      "Attendance": 90,
+      "RegisterNumber": "7376241CS105",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 87.38,
+          "Subject Marks": {
+            "OOP": 88,
+            "Computer Networks": 97,
+            "Database Systems": 91,
+            "Programming": 82,
+            "Data Structures": 85,
+            "Artificial Intelligence": 62,
+            "Software Engineering": 100,
+            "Operating Systems": 94
+          },
+          "Completed": true,
+          "SGPA": 8.74
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 82.5,
+          "Subject Marks": {
+            "OOP": 78,
+            "Computer Networks": 87,
+            "Database Systems": 81,
+            "Programming": 72,
+            "Data Structures": 75,
+            "Artificial Intelligence": 93,
+            "Software Engineering": 90,
+            "Operating Systems": 84
+          },
+          "Completed": true,
+          "SGPA": 8.25
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 72.5,
+          "Subject Marks": {
+            "OOP": 68,
+            "Computer Networks": 77,
+            "Database Systems": 71,
+            "Programming": 62,
+            "Data Structures": 65,
+            "Artificial Intelligence": 83,
+            "Software Engineering": 80,
+            "Operating Systems": 74
+          },
+          "Completed": true,
+          "SGPA": 7.25
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 77.5,
+          "Subject Marks": {
+            "OOP": 73,
+            "Computer Networks": 82,
+            "Database Systems": 76,
+            "Programming": 67,
+            "Data Structures": 70,
+            "Artificial Intelligence": 88,
+            "Software Engineering": 85,
+            "Operating Systems": 79
+          },
+          "Completed": true,
+          "SGPA": 7.75
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 87.5,
+          "Subject Marks": {
+            "OOP": 83,
+            "Computer Networks": 92,
+            "Database Systems": 86,
+            "Programming": 77,
+            "Data Structures": 80,
+            "Artificial Intelligence": 98,
+            "Software Engineering": 95,
+            "Operating Systems": 89
+          },
+          "Completed": true,
+          "SGPA": 8.75
+        }
+      },
+      "SGPA": 8.74,
+      "CGPA": 8.15,
+      "Department": "Computer Science and Engineering"
+    }
+  },
+  {
+    "number": 106,
+    "old_id": "7376241CS106",
+    "old_email": "student106.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIDS",
+      "Semester": 5,
+      "Email": "student106.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Data Science": 69,
+        "Database Systems": 98,
+        "Deep Learning": 66,
+        "Programming": 89,
+        "Data Structures": 95,
+        "Statistics": 92,
+        "Machine Learning": 60,
+        "Data Analytics": 63
+      },
+      "Name": "Student 106",
+      "Attendance": 83,
+      "RegisterNumber": "7376241CS106",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 79.0,
+          "Subject Marks": {
+            "Data Science": 69,
+            "Database Systems": 98,
+            "Deep Learning": 66,
+            "Programming": 89,
+            "Data Structures": 95,
+            "Statistics": 92,
+            "Machine Learning": 60,
+            "Data Analytics": 63
+          },
+          "Completed": true,
+          "SGPA": 7.9
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 89.5,
+          "Subject Marks": {
+            "Data Science": 100,
+            "Database Systems": 88,
+            "Deep Learning": 97,
+            "Programming": 79,
+            "Data Structures": 85,
+            "Statistics": 82,
+            "Machine Learning": 91,
+            "Data Analytics": 94
+          },
+          "Completed": true,
+          "SGPA": 8.95
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 79.5,
+          "Subject Marks": {
+            "Data Science": 90,
+            "Database Systems": 78,
+            "Deep Learning": 87,
+            "Programming": 69,
+            "Data Structures": 75,
+            "Statistics": 72,
+            "Machine Learning": 81,
+            "Data Analytics": 84
+          },
+          "Completed": true,
+          "SGPA": 7.95
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 84.5,
+          "Subject Marks": {
+            "Data Science": 95,
+            "Database Systems": 83,
+            "Deep Learning": 92,
+            "Programming": 74,
+            "Data Structures": 80,
+            "Statistics": 77,
+            "Machine Learning": 86,
+            "Data Analytics": 89
+          },
+          "Completed": true,
+          "SGPA": 8.45
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 84.25,
+          "Subject Marks": {
+            "Data Science": 64,
+            "Database Systems": 93,
+            "Deep Learning": 61,
+            "Programming": 84,
+            "Data Structures": 90,
+            "Statistics": 87,
+            "Machine Learning": 96,
+            "Data Analytics": 99
+          },
+          "Completed": true,
+          "SGPA": 8.43
+        }
+      },
+      "SGPA": 7.9,
+      "CGPA": 8.34,
+      "Department": "Artificial Intelligence and Data Science"
+    }
+  },
+  {
+    "number": 107,
+    "old_id": "7376241CS107",
+    "old_email": "student107.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIML",
+      "Semester": 5,
+      "Email": "student107.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Deep Learning": 73,
+        "Programming": 96,
+        "Data Structures": 61,
+        "Linear Algebra": 99,
+        "Probability and Statistics": 64,
+        "Machine Learning": 67,
+        "Neural Networks": 70,
+        "AI Project": 76
+      },
+      "Name": "Student 107",
+      "Attendance": 78,
+      "RegisterNumber": "7376241CS107",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 75.75,
+          "Subject Marks": {
+            "Deep Learning": 73,
+            "Programming": 96,
+            "Data Structures": 61,
+            "Linear Algebra": 99,
+            "Probability and Statistics": 64,
+            "Machine Learning": 67,
+            "Neural Networks": 70,
+            "AI Project": 76
+          },
+          "Completed": true,
+          "SGPA": 7.58
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 81.12,
+          "Subject Marks": {
+            "Deep Learning": 63,
+            "Programming": 86,
+            "Data Structures": 92,
+            "Linear Algebra": 89,
+            "Probability and Statistics": 95,
+            "Machine Learning": 98,
+            "Neural Networks": 60,
+            "AI Project": 66
+          },
+          "Completed": true,
+          "SGPA": 8.11
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 86.5,
+          "Subject Marks": {
+            "Deep Learning": 94,
+            "Programming": 76,
+            "Data Structures": 82,
+            "Linear Algebra": 79,
+            "Probability and Statistics": 85,
+            "Machine Learning": 88,
+            "Neural Networks": 91,
+            "AI Project": 97
+          },
+          "Completed": true,
+          "SGPA": 8.65
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 86.38,
+          "Subject Marks": {
+            "Deep Learning": 99,
+            "Programming": 81,
+            "Data Structures": 87,
+            "Linear Algebra": 84,
+            "Probability and Statistics": 90,
+            "Machine Learning": 93,
+            "Neural Networks": 96,
+            "AI Project": 61
+          },
+          "Completed": true,
+          "SGPA": 8.64
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 81.0,
+          "Subject Marks": {
+            "Deep Learning": 68,
+            "Programming": 91,
+            "Data Structures": 97,
+            "Linear Algebra": 94,
+            "Probability and Statistics": 100,
+            "Machine Learning": 62,
+            "Neural Networks": 65,
+            "AI Project": 71
+          },
+          "Completed": true,
+          "SGPA": 8.1
+        }
+      },
+      "SGPA": 7.58,
+      "CGPA": 8.22,
+      "Department": "Artificial Intelligence and Machine Learning"
+    }
+  },
+  {
+    "number": 108,
+    "old_id": "7376241CS108",
+    "old_email": "student108.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "EEE",
+      "Semester": 5,
+      "Email": "student108.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Electrical Machines": 68,
+        "Electromagnetic Fields": 71,
+        "Engineering Mathematics": 62,
+        "Control Systems": 77,
+        "Power Systems": 74,
+        "Electric Circuits": 65,
+        "Power Electronics": 80,
+        "Renewable Energy": 83
+      },
+      "Name": "Student 108",
+      "Attendance": 92,
+      "RegisterNumber": "7376241CS108",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 72.5,
+          "Subject Marks": {
+            "Electrical Machines": 68,
+            "Electromagnetic Fields": 71,
+            "Engineering Mathematics": 62,
+            "Control Systems": 77,
+            "Power Systems": 74,
+            "Electric Circuits": 65,
+            "Power Electronics": 80,
+            "Renewable Energy": 83
+          },
+          "Completed": true,
+          "SGPA": 7.25
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 77.88,
+          "Subject Marks": {
+            "Electrical Machines": 99,
+            "Electromagnetic Fields": 61,
+            "Engineering Mathematics": 93,
+            "Control Systems": 67,
+            "Power Systems": 64,
+            "Electric Circuits": 96,
+            "Power Electronics": 70,
+            "Renewable Energy": 73
+          },
+          "Completed": true,
+          "SGPA": 7.79
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 83.25,
+          "Subject Marks": {
+            "Electrical Machines": 89,
+            "Electromagnetic Fields": 92,
+            "Engineering Mathematics": 83,
+            "Control Systems": 98,
+            "Power Systems": 95,
+            "Electric Circuits": 86,
+            "Power Electronics": 60,
+            "Renewable Energy": 63
+          },
+          "Completed": true,
+          "SGPA": 8.32
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 83.12,
+          "Subject Marks": {
+            "Electrical Machines": 94,
+            "Electromagnetic Fields": 97,
+            "Engineering Mathematics": 88,
+            "Control Systems": 62,
+            "Power Systems": 100,
+            "Electric Circuits": 91,
+            "Power Electronics": 65,
+            "Renewable Energy": 68
+          },
+          "Completed": true,
+          "SGPA": 8.31
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 72.62,
+          "Subject Marks": {
+            "Electrical Machines": 63,
+            "Electromagnetic Fields": 66,
+            "Engineering Mathematics": 98,
+            "Control Systems": 72,
+            "Power Systems": 69,
+            "Electric Circuits": 60,
+            "Power Electronics": 75,
+            "Renewable Energy": 78
+          },
+          "Completed": true,
+          "SGPA": 7.26
+        }
+      },
+      "SGPA": 7.25,
+      "CGPA": 7.79,
+      "Department": "Electrical and Electronics Engineering"
+    }
+  },
+  {
+    "number": 109,
+    "old_id": "7376241CS109",
+    "old_email": "student109.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "ECE",
+      "Semester": 5,
+      "Email": "student109.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Wireless Communication": 90,
+        "Signals and Systems": 81,
+        "Communication Systems": 84,
+        "Circuit Analysis": 72,
+        "Electronic Devices": 75,
+        "Engineering Mathematics": 69,
+        "Embedded Systems": 87,
+        "Digital Electronics": 78
+      },
+      "Name": "Student 109",
+      "Attendance": 89,
+      "RegisterNumber": "7376241CS109",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 79.5,
+          "Subject Marks": {
+            "Wireless Communication": 90,
+            "Signals and Systems": 81,
+            "Communication Systems": 84,
+            "Circuit Analysis": 72,
+            "Electronic Devices": 75,
+            "Engineering Mathematics": 69,
+            "Embedded Systems": 87,
+            "Digital Electronics": 78
+          },
+          "Completed": true,
+          "SGPA": 7.95
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 74.62,
+          "Subject Marks": {
+            "Wireless Communication": 80,
+            "Signals and Systems": 71,
+            "Communication Systems": 74,
+            "Circuit Analysis": 62,
+            "Electronic Devices": 65,
+            "Engineering Mathematics": 100,
+            "Embedded Systems": 77,
+            "Digital Electronics": 68
+          },
+          "Completed": true,
+          "SGPA": 7.46
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 80.0,
+          "Subject Marks": {
+            "Wireless Communication": 70,
+            "Signals and Systems": 61,
+            "Communication Systems": 64,
+            "Circuit Analysis": 93,
+            "Electronic Devices": 96,
+            "Engineering Mathematics": 90,
+            "Embedded Systems": 67,
+            "Digital Electronics": 99
+          },
+          "Completed": true,
+          "SGPA": 8.0
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 74.75,
+          "Subject Marks": {
+            "Wireless Communication": 75,
+            "Signals and Systems": 66,
+            "Communication Systems": 69,
+            "Circuit Analysis": 98,
+            "Electronic Devices": 60,
+            "Engineering Mathematics": 95,
+            "Embedded Systems": 72,
+            "Digital Electronics": 63
+          },
+          "Completed": true,
+          "SGPA": 7.47
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 74.5,
+          "Subject Marks": {
+            "Wireless Communication": 85,
+            "Signals and Systems": 76,
+            "Communication Systems": 79,
+            "Circuit Analysis": 67,
+            "Electronic Devices": 70,
+            "Engineering Mathematics": 64,
+            "Embedded Systems": 82,
+            "Digital Electronics": 73
+          },
+          "Completed": true,
+          "SGPA": 7.45
+        }
+      },
+      "SGPA": 7.95,
+      "CGPA": 7.67,
+      "Department": "Electronics and Communication Engineering"
+    }
+  },
+  {
+    "number": 110,
+    "old_id": "7376241CS110",
+    "old_email": "student110.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "IT",
+      "Semester": 5,
+      "Email": "student110.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 82,
+        "Database Systems": 85,
+        "Cloud Computing": 94,
+        "Programming": 76,
+        "Data Structures": 79,
+        "Information Security": 97,
+        "Operating Systems": 88,
+        "Web Technology": 91
+      },
+      "Name": "Student 110",
+      "Attendance": 70,
+      "RegisterNumber": "7376241CS110",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 86.5,
+          "Subject Marks": {
+            "OOP": 82,
+            "Database Systems": 85,
+            "Cloud Computing": 94,
+            "Programming": 76,
+            "Data Structures": 79,
+            "Information Security": 97,
+            "Operating Systems": 88,
+            "Web Technology": 91
+          },
+          "Completed": true,
+          "SGPA": 8.65
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 76.5,
+          "Subject Marks": {
+            "OOP": 72,
+            "Database Systems": 75,
+            "Cloud Computing": 84,
+            "Programming": 66,
+            "Data Structures": 69,
+            "Information Security": 87,
+            "Operating Systems": 78,
+            "Web Technology": 81
+          },
+          "Completed": true,
+          "SGPA": 7.65
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 76.75,
+          "Subject Marks": {
+            "OOP": 62,
+            "Database Systems": 65,
+            "Cloud Computing": 74,
+            "Programming": 97,
+            "Data Structures": 100,
+            "Information Security": 77,
+            "Operating Systems": 68,
+            "Web Technology": 71
+          },
+          "Completed": true,
+          "SGPA": 7.67
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 71.5,
+          "Subject Marks": {
+            "OOP": 67,
+            "Database Systems": 70,
+            "Cloud Computing": 79,
+            "Programming": 61,
+            "Data Structures": 64,
+            "Information Security": 82,
+            "Operating Systems": 73,
+            "Web Technology": 76
+          },
+          "Completed": true,
+          "SGPA": 7.15
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 81.5,
+          "Subject Marks": {
+            "OOP": 77,
+            "Database Systems": 80,
+            "Cloud Computing": 89,
+            "Programming": 71,
+            "Data Structures": 74,
+            "Information Security": 92,
+            "Operating Systems": 83,
+            "Web Technology": 86
+          },
+          "Completed": true,
+          "SGPA": 8.15
+        }
+      },
+      "SGPA": 8.65,
+      "CGPA": 7.85,
+      "Department": "Information Technology"
+    }
+  },
+  {
+    "number": 111,
+    "old_id": "7376241CS111",
+    "old_email": "student111.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "CSE",
+      "Semester": 5,
+      "Email": "student111.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 89,
+        "Computer Networks": 98,
+        "Database Systems": 92,
+        "Programming": 83,
+        "Data Structures": 86,
+        "Artificial Intelligence": 63,
+        "Software Engineering": 60,
+        "Operating Systems": 95
+      },
+      "Name": "Student 111",
+      "Attendance": 78,
+      "RegisterNumber": "7376241CS111",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 83.25,
+          "Subject Marks": {
+            "OOP": 89,
+            "Computer Networks": 98,
+            "Database Systems": 92,
+            "Programming": 83,
+            "Data Structures": 86,
+            "Artificial Intelligence": 63,
+            "Software Engineering": 60,
+            "Operating Systems": 95
+          },
+          "Completed": true,
+          "SGPA": 8.32
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 83.5,
+          "Subject Marks": {
+            "OOP": 79,
+            "Computer Networks": 88,
+            "Database Systems": 82,
+            "Programming": 73,
+            "Data Structures": 76,
+            "Artificial Intelligence": 94,
+            "Software Engineering": 91,
+            "Operating Systems": 85
+          },
+          "Completed": true,
+          "SGPA": 8.35
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 73.5,
+          "Subject Marks": {
+            "OOP": 69,
+            "Computer Networks": 78,
+            "Database Systems": 72,
+            "Programming": 63,
+            "Data Structures": 66,
+            "Artificial Intelligence": 84,
+            "Software Engineering": 81,
+            "Operating Systems": 75
+          },
+          "Completed": true,
+          "SGPA": 7.35
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 78.5,
+          "Subject Marks": {
+            "OOP": 74,
+            "Computer Networks": 83,
+            "Database Systems": 77,
+            "Programming": 68,
+            "Data Structures": 71,
+            "Artificial Intelligence": 89,
+            "Software Engineering": 86,
+            "Operating Systems": 80
+          },
+          "Completed": true,
+          "SGPA": 7.85
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 88.5,
+          "Subject Marks": {
+            "OOP": 84,
+            "Computer Networks": 93,
+            "Database Systems": 87,
+            "Programming": 78,
+            "Data Structures": 81,
+            "Artificial Intelligence": 99,
+            "Software Engineering": 96,
+            "Operating Systems": 90
+          },
+          "Completed": true,
+          "SGPA": 8.85
+        }
+      },
+      "SGPA": 8.32,
+      "CGPA": 8.14,
+      "Department": "Computer Science and Engineering"
+    }
+  },
+  {
+    "number": 112,
+    "old_id": "7376241CS112",
+    "old_email": "student112.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIDS",
+      "Semester": 5,
+      "Email": "student112.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Data Science": 70,
+        "Database Systems": 99,
+        "Deep Learning": 67,
+        "Programming": 90,
+        "Data Structures": 96,
+        "Statistics": 93,
+        "Machine Learning": 61,
+        "Data Analytics": 64
+      },
+      "Name": "Student 112",
+      "Attendance": 98,
+      "RegisterNumber": "7376241CS112",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 80.0,
+          "Subject Marks": {
+            "Data Science": 70,
+            "Database Systems": 99,
+            "Deep Learning": 67,
+            "Programming": 90,
+            "Data Structures": 96,
+            "Statistics": 93,
+            "Machine Learning": 61,
+            "Data Analytics": 64
+          },
+          "Completed": true,
+          "SGPA": 8.0
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 85.38,
+          "Subject Marks": {
+            "Data Science": 60,
+            "Database Systems": 89,
+            "Deep Learning": 98,
+            "Programming": 80,
+            "Data Structures": 86,
+            "Statistics": 83,
+            "Machine Learning": 92,
+            "Data Analytics": 95
+          },
+          "Completed": true,
+          "SGPA": 8.54
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 80.5,
+          "Subject Marks": {
+            "Data Science": 91,
+            "Database Systems": 79,
+            "Deep Learning": 88,
+            "Programming": 70,
+            "Data Structures": 76,
+            "Statistics": 73,
+            "Machine Learning": 82,
+            "Data Analytics": 85
+          },
+          "Completed": true,
+          "SGPA": 8.05
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 85.5,
+          "Subject Marks": {
+            "Data Science": 96,
+            "Database Systems": 84,
+            "Deep Learning": 93,
+            "Programming": 75,
+            "Data Structures": 81,
+            "Statistics": 78,
+            "Machine Learning": 87,
+            "Data Analytics": 90
+          },
+          "Completed": true,
+          "SGPA": 8.55
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 85.25,
+          "Subject Marks": {
+            "Data Science": 65,
+            "Database Systems": 94,
+            "Deep Learning": 62,
+            "Programming": 85,
+            "Data Structures": 91,
+            "Statistics": 88,
+            "Machine Learning": 97,
+            "Data Analytics": 100
+          },
+          "Completed": true,
+          "SGPA": 8.53
+        }
+      },
+      "SGPA": 8.0,
+      "CGPA": 8.33,
+      "Department": "Artificial Intelligence and Data Science"
+    }
+  },
+  {
+    "number": 113,
+    "old_id": "7376241CS113",
+    "old_email": "student113.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIML",
+      "Semester": 5,
+      "Email": "student113.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Deep Learning": 74,
+        "Programming": 97,
+        "Data Structures": 62,
+        "Linear Algebra": 100,
+        "Probability and Statistics": 65,
+        "Machine Learning": 68,
+        "Neural Networks": 71,
+        "AI Project": 77
+      },
+      "Name": "Student 113",
+      "Attendance": 92,
+      "RegisterNumber": "7376241CS113",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 76.75,
+          "Subject Marks": {
+            "Deep Learning": 74,
+            "Programming": 97,
+            "Data Structures": 62,
+            "Linear Algebra": 100,
+            "Probability and Statistics": 65,
+            "Machine Learning": 68,
+            "Neural Networks": 71,
+            "AI Project": 77
+          },
+          "Completed": true,
+          "SGPA": 7.67
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 82.12,
+          "Subject Marks": {
+            "Deep Learning": 64,
+            "Programming": 87,
+            "Data Structures": 93,
+            "Linear Algebra": 90,
+            "Probability and Statistics": 96,
+            "Machine Learning": 99,
+            "Neural Networks": 61,
+            "AI Project": 67
+          },
+          "Completed": true,
+          "SGPA": 8.21
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 87.5,
+          "Subject Marks": {
+            "Deep Learning": 95,
+            "Programming": 77,
+            "Data Structures": 83,
+            "Linear Algebra": 80,
+            "Probability and Statistics": 86,
+            "Machine Learning": 89,
+            "Neural Networks": 92,
+            "AI Project": 98
+          },
+          "Completed": true,
+          "SGPA": 8.75
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 87.38,
+          "Subject Marks": {
+            "Deep Learning": 100,
+            "Programming": 82,
+            "Data Structures": 88,
+            "Linear Algebra": 85,
+            "Probability and Statistics": 91,
+            "Machine Learning": 94,
+            "Neural Networks": 97,
+            "AI Project": 62
+          },
+          "Completed": true,
+          "SGPA": 8.74
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 76.88,
+          "Subject Marks": {
+            "Deep Learning": 69,
+            "Programming": 92,
+            "Data Structures": 98,
+            "Linear Algebra": 95,
+            "Probability and Statistics": 60,
+            "Machine Learning": 63,
+            "Neural Networks": 66,
+            "AI Project": 72
+          },
+          "Completed": true,
+          "SGPA": 7.69
+        }
+      },
+      "SGPA": 7.67,
+      "CGPA": 8.21,
+      "Department": "Artificial Intelligence and Machine Learning"
+    }
+  },
+  {
+    "number": 114,
+    "old_id": "7376241CS114",
+    "old_email": "student114.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "EEE",
+      "Semester": 5,
+      "Email": "student114.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Electrical Machines": 69,
+        "Electromagnetic Fields": 72,
+        "Engineering Mathematics": 63,
+        "Control Systems": 78,
+        "Power Systems": 75,
+        "Electric Circuits": 66,
+        "Power Electronics": 81,
+        "Renewable Energy": 84
+      },
+      "Name": "Student 114",
+      "Attendance": 95,
+      "RegisterNumber": "7376241CS114",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 73.5,
+          "Subject Marks": {
+            "Electrical Machines": 69,
+            "Electromagnetic Fields": 72,
+            "Engineering Mathematics": 63,
+            "Control Systems": 78,
+            "Power Systems": 75,
+            "Electric Circuits": 66,
+            "Power Electronics": 81,
+            "Renewable Energy": 84
+          },
+          "Completed": true,
+          "SGPA": 7.35
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 78.88,
+          "Subject Marks": {
+            "Electrical Machines": 100,
+            "Electromagnetic Fields": 62,
+            "Engineering Mathematics": 94,
+            "Control Systems": 68,
+            "Power Systems": 65,
+            "Electric Circuits": 97,
+            "Power Electronics": 71,
+            "Renewable Energy": 74
+          },
+          "Completed": true,
+          "SGPA": 7.89
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 84.25,
+          "Subject Marks": {
+            "Electrical Machines": 90,
+            "Electromagnetic Fields": 93,
+            "Engineering Mathematics": 84,
+            "Control Systems": 99,
+            "Power Systems": 96,
+            "Electric Circuits": 87,
+            "Power Electronics": 61,
+            "Renewable Energy": 64
+          },
+          "Completed": true,
+          "SGPA": 8.43
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 79.0,
+          "Subject Marks": {
+            "Electrical Machines": 95,
+            "Electromagnetic Fields": 98,
+            "Engineering Mathematics": 89,
+            "Control Systems": 63,
+            "Power Systems": 60,
+            "Electric Circuits": 92,
+            "Power Electronics": 66,
+            "Renewable Energy": 69
+          },
+          "Completed": true,
+          "SGPA": 7.9
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 73.62,
+          "Subject Marks": {
+            "Electrical Machines": 64,
+            "Electromagnetic Fields": 67,
+            "Engineering Mathematics": 99,
+            "Control Systems": 73,
+            "Power Systems": 70,
+            "Electric Circuits": 61,
+            "Power Electronics": 76,
+            "Renewable Energy": 79
+          },
+          "Completed": true,
+          "SGPA": 7.36
+        }
+      },
+      "SGPA": 7.35,
+      "CGPA": 7.79,
+      "Department": "Electrical and Electronics Engineering"
+    }
+  },
+  {
+    "number": 115,
+    "old_id": "7376241CS115",
+    "old_email": "student115.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "ECE",
+      "Semester": 5,
+      "Email": "student115.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Wireless Communication": 91,
+        "Signals and Systems": 82,
+        "Communication Systems": 85,
+        "Circuit Analysis": 73,
+        "Electronic Devices": 76,
+        "Engineering Mathematics": 70,
+        "Embedded Systems": 88,
+        "Digital Electronics": 79
+      },
+      "Name": "Student 115",
+      "Attendance": 74,
+      "RegisterNumber": "7376241CS115",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 80.5,
+          "Subject Marks": {
+            "Wireless Communication": 91,
+            "Signals and Systems": 82,
+            "Communication Systems": 85,
+            "Circuit Analysis": 73,
+            "Electronic Devices": 76,
+            "Engineering Mathematics": 70,
+            "Embedded Systems": 88,
+            "Digital Electronics": 79
+          },
+          "Completed": true,
+          "SGPA": 8.05
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 70.5,
+          "Subject Marks": {
+            "Wireless Communication": 81,
+            "Signals and Systems": 72,
+            "Communication Systems": 75,
+            "Circuit Analysis": 63,
+            "Electronic Devices": 66,
+            "Engineering Mathematics": 60,
+            "Embedded Systems": 78,
+            "Digital Electronics": 69
+          },
+          "Completed": true,
+          "SGPA": 7.05
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 81.0,
+          "Subject Marks": {
+            "Wireless Communication": 71,
+            "Signals and Systems": 62,
+            "Communication Systems": 65,
+            "Circuit Analysis": 94,
+            "Electronic Devices": 97,
+            "Engineering Mathematics": 91,
+            "Embedded Systems": 68,
+            "Digital Electronics": 100
+          },
+          "Completed": true,
+          "SGPA": 8.1
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 75.75,
+          "Subject Marks": {
+            "Wireless Communication": 76,
+            "Signals and Systems": 67,
+            "Communication Systems": 70,
+            "Circuit Analysis": 99,
+            "Electronic Devices": 61,
+            "Engineering Mathematics": 96,
+            "Embedded Systems": 73,
+            "Digital Electronics": 64
+          },
+          "Completed": true,
+          "SGPA": 7.58
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 75.5,
+          "Subject Marks": {
+            "Wireless Communication": 86,
+            "Signals and Systems": 77,
+            "Communication Systems": 80,
+            "Circuit Analysis": 68,
+            "Electronic Devices": 71,
+            "Engineering Mathematics": 65,
+            "Embedded Systems": 83,
+            "Digital Electronics": 74
+          },
+          "Completed": true,
+          "SGPA": 7.55
+        }
+      },
+      "SGPA": 8.05,
+      "CGPA": 7.67,
+      "Department": "Electronics and Communication Engineering"
+    }
+  },
+  {
+    "number": 116,
+    "old_id": "7376241CS116",
+    "old_email": "student116.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "IT",
+      "Semester": 5,
+      "Email": "student116.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 83,
+        "Database Systems": 86,
+        "Cloud Computing": 95,
+        "Programming": 77,
+        "Data Structures": 80,
+        "Information Security": 98,
+        "Operating Systems": 89,
+        "Web Technology": 92
+      },
+      "Name": "Student 116",
+      "Attendance": 91,
+      "RegisterNumber": "7376241CS116",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 87.5,
+          "Subject Marks": {
+            "OOP": 83,
+            "Database Systems": 86,
+            "Cloud Computing": 95,
+            "Programming": 77,
+            "Data Structures": 80,
+            "Information Security": 98,
+            "Operating Systems": 89,
+            "Web Technology": 92
+          },
+          "Completed": true,
+          "SGPA": 8.75
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 77.5,
+          "Subject Marks": {
+            "OOP": 73,
+            "Database Systems": 76,
+            "Cloud Computing": 85,
+            "Programming": 67,
+            "Data Structures": 70,
+            "Information Security": 88,
+            "Operating Systems": 79,
+            "Web Technology": 82
+          },
+          "Completed": true,
+          "SGPA": 7.75
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 72.62,
+          "Subject Marks": {
+            "OOP": 63,
+            "Database Systems": 66,
+            "Cloud Computing": 75,
+            "Programming": 98,
+            "Data Structures": 60,
+            "Information Security": 78,
+            "Operating Systems": 69,
+            "Web Technology": 72
+          },
+          "Completed": true,
+          "SGPA": 7.26
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 72.5,
+          "Subject Marks": {
+            "OOP": 68,
+            "Database Systems": 71,
+            "Cloud Computing": 80,
+            "Programming": 62,
+            "Data Structures": 65,
+            "Information Security": 83,
+            "Operating Systems": 74,
+            "Web Technology": 77
+          },
+          "Completed": true,
+          "SGPA": 7.25
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 82.5,
+          "Subject Marks": {
+            "OOP": 78,
+            "Database Systems": 81,
+            "Cloud Computing": 90,
+            "Programming": 72,
+            "Data Structures": 75,
+            "Information Security": 93,
+            "Operating Systems": 84,
+            "Web Technology": 87
+          },
+          "Completed": true,
+          "SGPA": 8.25
+        }
+      },
+      "SGPA": 8.75,
+      "CGPA": 7.85,
+      "Department": "Information Technology"
+    }
+  },
+  {
+    "number": 117,
+    "old_id": "7376241CS117",
+    "old_email": "student117.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "CSE",
+      "Semester": 5,
+      "Email": "student117.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 90,
+        "Computer Networks": 99,
+        "Database Systems": 93,
+        "Programming": 84,
+        "Data Structures": 87,
+        "Artificial Intelligence": 64,
+        "Software Engineering": 61,
+        "Operating Systems": 96
+      },
+      "Name": "Student 117",
+      "Attendance": 82,
+      "RegisterNumber": "7376241CS117",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 84.25,
+          "Subject Marks": {
+            "OOP": 90,
+            "Computer Networks": 99,
+            "Database Systems": 93,
+            "Programming": 84,
+            "Data Structures": 87,
+            "Artificial Intelligence": 64,
+            "Software Engineering": 61,
+            "Operating Systems": 96
+          },
+          "Completed": true,
+          "SGPA": 8.43
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 84.5,
+          "Subject Marks": {
+            "OOP": 80,
+            "Computer Networks": 89,
+            "Database Systems": 83,
+            "Programming": 74,
+            "Data Structures": 77,
+            "Artificial Intelligence": 95,
+            "Software Engineering": 92,
+            "Operating Systems": 86
+          },
+          "Completed": true,
+          "SGPA": 8.45
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 74.5,
+          "Subject Marks": {
+            "OOP": 70,
+            "Computer Networks": 79,
+            "Database Systems": 73,
+            "Programming": 64,
+            "Data Structures": 67,
+            "Artificial Intelligence": 85,
+            "Software Engineering": 82,
+            "Operating Systems": 76
+          },
+          "Completed": true,
+          "SGPA": 7.45
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 79.5,
+          "Subject Marks": {
+            "OOP": 75,
+            "Computer Networks": 84,
+            "Database Systems": 78,
+            "Programming": 69,
+            "Data Structures": 72,
+            "Artificial Intelligence": 90,
+            "Software Engineering": 87,
+            "Operating Systems": 81
+          },
+          "Completed": true,
+          "SGPA": 7.95
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 89.5,
+          "Subject Marks": {
+            "OOP": 85,
+            "Computer Networks": 94,
+            "Database Systems": 88,
+            "Programming": 79,
+            "Data Structures": 82,
+            "Artificial Intelligence": 100,
+            "Software Engineering": 97,
+            "Operating Systems": 91
+          },
+          "Completed": true,
+          "SGPA": 8.95
+        }
+      },
+      "SGPA": 8.43,
+      "CGPA": 8.25,
+      "Department": "Computer Science and Engineering"
+    }
+  },
+  {
+    "number": 118,
+    "old_id": "7376241CS118",
+    "old_email": "student118.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIDS",
+      "Semester": 5,
+      "Email": "student118.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Data Science": 71,
+        "Database Systems": 100,
+        "Deep Learning": 68,
+        "Programming": 91,
+        "Data Structures": 97,
+        "Statistics": 94,
+        "Machine Learning": 62,
+        "Data Analytics": 65
+      },
+      "Name": "Student 118",
+      "Attendance": 91,
+      "RegisterNumber": "7376241CS118",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 81.0,
+          "Subject Marks": {
+            "Data Science": 71,
+            "Database Systems": 100,
+            "Deep Learning": 68,
+            "Programming": 91,
+            "Data Structures": 97,
+            "Statistics": 94,
+            "Machine Learning": 62,
+            "Data Analytics": 65
+          },
+          "Completed": true,
+          "SGPA": 8.1
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 86.38,
+          "Subject Marks": {
+            "Data Science": 61,
+            "Database Systems": 90,
+            "Deep Learning": 99,
+            "Programming": 81,
+            "Data Structures": 87,
+            "Statistics": 84,
+            "Machine Learning": 93,
+            "Data Analytics": 96
+          },
+          "Completed": true,
+          "SGPA": 8.64
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 81.5,
+          "Subject Marks": {
+            "Data Science": 92,
+            "Database Systems": 80,
+            "Deep Learning": 89,
+            "Programming": 71,
+            "Data Structures": 77,
+            "Statistics": 74,
+            "Machine Learning": 83,
+            "Data Analytics": 86
+          },
+          "Completed": true,
+          "SGPA": 8.15
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 86.5,
+          "Subject Marks": {
+            "Data Science": 97,
+            "Database Systems": 85,
+            "Deep Learning": 94,
+            "Programming": 76,
+            "Data Structures": 82,
+            "Statistics": 79,
+            "Machine Learning": 88,
+            "Data Analytics": 91
+          },
+          "Completed": true,
+          "SGPA": 8.65
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 81.12,
+          "Subject Marks": {
+            "Data Science": 66,
+            "Database Systems": 95,
+            "Deep Learning": 63,
+            "Programming": 86,
+            "Data Structures": 92,
+            "Statistics": 89,
+            "Machine Learning": 98,
+            "Data Analytics": 60
+          },
+          "Completed": true,
+          "SGPA": 8.11
+        }
+      },
+      "SGPA": 8.1,
+      "CGPA": 8.33,
+      "Department": "Artificial Intelligence and Data Science"
+    }
+  },
+  {
+    "number": 119,
+    "old_id": "7376241CS119",
+    "old_email": "student119.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIML",
+      "Semester": 5,
+      "Email": "student119.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Deep Learning": 75,
+        "Programming": 98,
+        "Data Structures": 63,
+        "Linear Algebra": 60,
+        "Probability and Statistics": 66,
+        "Machine Learning": 69,
+        "Neural Networks": 72,
+        "AI Project": 78
+      },
+      "Name": "Student 119",
+      "Attendance": 88,
+      "RegisterNumber": "7376241CS119",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 72.62,
+          "Subject Marks": {
+            "Deep Learning": 75,
+            "Programming": 98,
+            "Data Structures": 63,
+            "Linear Algebra": 60,
+            "Probability and Statistics": 66,
+            "Machine Learning": 69,
+            "Neural Networks": 72,
+            "AI Project": 78
+          },
+          "Completed": true,
+          "SGPA": 7.26
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 83.12,
+          "Subject Marks": {
+            "Deep Learning": 65,
+            "Programming": 88,
+            "Data Structures": 94,
+            "Linear Algebra": 91,
+            "Probability and Statistics": 97,
+            "Machine Learning": 100,
+            "Neural Networks": 62,
+            "AI Project": 68
+          },
+          "Completed": true,
+          "SGPA": 8.31
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 88.5,
+          "Subject Marks": {
+            "Deep Learning": 96,
+            "Programming": 78,
+            "Data Structures": 84,
+            "Linear Algebra": 81,
+            "Probability and Statistics": 87,
+            "Machine Learning": 90,
+            "Neural Networks": 93,
+            "AI Project": 99
+          },
+          "Completed": true,
+          "SGPA": 8.85
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 83.25,
+          "Subject Marks": {
+            "Deep Learning": 60,
+            "Programming": 83,
+            "Data Structures": 89,
+            "Linear Algebra": 86,
+            "Probability and Statistics": 92,
+            "Machine Learning": 95,
+            "Neural Networks": 98,
+            "AI Project": 63
+          },
+          "Completed": true,
+          "SGPA": 8.32
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 77.88,
+          "Subject Marks": {
+            "Deep Learning": 70,
+            "Programming": 93,
+            "Data Structures": 99,
+            "Linear Algebra": 96,
+            "Probability and Statistics": 61,
+            "Machine Learning": 64,
+            "Neural Networks": 67,
+            "AI Project": 73
+          },
+          "Completed": true,
+          "SGPA": 7.79
+        }
+      },
+      "SGPA": 7.26,
+      "CGPA": 8.11,
+      "Department": "Artificial Intelligence and Machine Learning"
+    }
+  },
+  {
+    "number": 120,
+    "old_id": "7376241CS120",
+    "old_email": "student120.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "EEE",
+      "Semester": 5,
+      "Email": "student120.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Electrical Machines": 70,
+        "Electromagnetic Fields": 73,
+        "Engineering Mathematics": 64,
+        "Control Systems": 79,
+        "Power Systems": 76,
+        "Electric Circuits": 67,
+        "Power Electronics": 82,
+        "Renewable Energy": 85
+      },
+      "Name": "Student 120",
+      "Attendance": 90,
+      "RegisterNumber": "7376241CS120",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 74.5,
+          "Subject Marks": {
+            "Electrical Machines": 70,
+            "Electromagnetic Fields": 73,
+            "Engineering Mathematics": 64,
+            "Control Systems": 79,
+            "Power Systems": 76,
+            "Electric Circuits": 67,
+            "Power Electronics": 82,
+            "Renewable Energy": 85
+          },
+          "Completed": true,
+          "SGPA": 7.45
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 74.75,
+          "Subject Marks": {
+            "Electrical Machines": 60,
+            "Electromagnetic Fields": 63,
+            "Engineering Mathematics": 95,
+            "Control Systems": 69,
+            "Power Systems": 66,
+            "Electric Circuits": 98,
+            "Power Electronics": 72,
+            "Renewable Energy": 75
+          },
+          "Completed": true,
+          "SGPA": 7.47
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 85.25,
+          "Subject Marks": {
+            "Electrical Machines": 91,
+            "Electromagnetic Fields": 94,
+            "Engineering Mathematics": 85,
+            "Control Systems": 100,
+            "Power Systems": 97,
+            "Electric Circuits": 88,
+            "Power Electronics": 62,
+            "Renewable Energy": 65
+          },
+          "Completed": true,
+          "SGPA": 8.53
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 80.0,
+          "Subject Marks": {
+            "Electrical Machines": 96,
+            "Electromagnetic Fields": 99,
+            "Engineering Mathematics": 90,
+            "Control Systems": 64,
+            "Power Systems": 61,
+            "Electric Circuits": 93,
+            "Power Electronics": 67,
+            "Renewable Energy": 70
+          },
+          "Completed": true,
+          "SGPA": 8.0
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 74.62,
+          "Subject Marks": {
+            "Electrical Machines": 65,
+            "Electromagnetic Fields": 68,
+            "Engineering Mathematics": 100,
+            "Control Systems": 74,
+            "Power Systems": 71,
+            "Electric Circuits": 62,
+            "Power Electronics": 77,
+            "Renewable Energy": 80
+          },
+          "Completed": true,
+          "SGPA": 7.46
+        }
+      },
+      "SGPA": 7.45,
+      "CGPA": 7.78,
+      "Department": "Electrical and Electronics Engineering"
+    }
+  },
+  {
+    "number": 121,
+    "old_id": "7376241CS121",
+    "old_email": "student121.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "ECE",
+      "Semester": 5,
+      "Email": "student121.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Wireless Communication": 92,
+        "Signals and Systems": 83,
+        "Communication Systems": 86,
+        "Circuit Analysis": 74,
+        "Electronic Devices": 77,
+        "Engineering Mathematics": 71,
+        "Embedded Systems": 89,
+        "Digital Electronics": 80
+      },
+      "Name": "Student 121",
+      "Attendance": 80,
+      "RegisterNumber": "7376241CS121",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 81.5,
+          "Subject Marks": {
+            "Wireless Communication": 92,
+            "Signals and Systems": 83,
+            "Communication Systems": 86,
+            "Circuit Analysis": 74,
+            "Electronic Devices": 77,
+            "Engineering Mathematics": 71,
+            "Embedded Systems": 89,
+            "Digital Electronics": 80
+          },
+          "Completed": true,
+          "SGPA": 8.15
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 71.5,
+          "Subject Marks": {
+            "Wireless Communication": 82,
+            "Signals and Systems": 73,
+            "Communication Systems": 76,
+            "Circuit Analysis": 64,
+            "Electronic Devices": 67,
+            "Engineering Mathematics": 61,
+            "Embedded Systems": 79,
+            "Digital Electronics": 70
+          },
+          "Completed": true,
+          "SGPA": 7.15
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 76.88,
+          "Subject Marks": {
+            "Wireless Communication": 72,
+            "Signals and Systems": 63,
+            "Communication Systems": 66,
+            "Circuit Analysis": 95,
+            "Electronic Devices": 98,
+            "Engineering Mathematics": 92,
+            "Embedded Systems": 69,
+            "Digital Electronics": 60
+          },
+          "Completed": true,
+          "SGPA": 7.69
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 76.75,
+          "Subject Marks": {
+            "Wireless Communication": 77,
+            "Signals and Systems": 68,
+            "Communication Systems": 71,
+            "Circuit Analysis": 100,
+            "Electronic Devices": 62,
+            "Engineering Mathematics": 97,
+            "Embedded Systems": 74,
+            "Digital Electronics": 65
+          },
+          "Completed": true,
+          "SGPA": 7.67
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 76.5,
+          "Subject Marks": {
+            "Wireless Communication": 87,
+            "Signals and Systems": 78,
+            "Communication Systems": 81,
+            "Circuit Analysis": 69,
+            "Electronic Devices": 72,
+            "Engineering Mathematics": 66,
+            "Embedded Systems": 84,
+            "Digital Electronics": 75
+          },
+          "Completed": true,
+          "SGPA": 7.65
+        }
+      },
+      "SGPA": 8.15,
+      "CGPA": 7.66,
+      "Department": "Electronics and Communication Engineering"
+    }
+  },
+  {
+    "number": 122,
+    "old_id": "7376241CS122",
+    "old_email": "student122.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "IT",
+      "Semester": 5,
+      "Email": "student122.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 84,
+        "Database Systems": 87,
+        "Cloud Computing": 96,
+        "Programming": 78,
+        "Data Structures": 81,
+        "Information Security": 99,
+        "Operating Systems": 90,
+        "Web Technology": 93
+      },
+      "Name": "Student 122",
+      "Attendance": 87,
+      "RegisterNumber": "7376241CS122",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 88.5,
+          "Subject Marks": {
+            "OOP": 84,
+            "Database Systems": 87,
+            "Cloud Computing": 96,
+            "Programming": 78,
+            "Data Structures": 81,
+            "Information Security": 99,
+            "Operating Systems": 90,
+            "Web Technology": 93
+          },
+          "Completed": true,
+          "SGPA": 8.85
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 78.5,
+          "Subject Marks": {
+            "OOP": 74,
+            "Database Systems": 77,
+            "Cloud Computing": 86,
+            "Programming": 68,
+            "Data Structures": 71,
+            "Information Security": 89,
+            "Operating Systems": 80,
+            "Web Technology": 83
+          },
+          "Completed": true,
+          "SGPA": 7.85
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 73.62,
+          "Subject Marks": {
+            "OOP": 64,
+            "Database Systems": 67,
+            "Cloud Computing": 76,
+            "Programming": 99,
+            "Data Structures": 61,
+            "Information Security": 79,
+            "Operating Systems": 70,
+            "Web Technology": 73
+          },
+          "Completed": true,
+          "SGPA": 7.36
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 73.5,
+          "Subject Marks": {
+            "OOP": 69,
+            "Database Systems": 72,
+            "Cloud Computing": 81,
+            "Programming": 63,
+            "Data Structures": 66,
+            "Information Security": 84,
+            "Operating Systems": 75,
+            "Web Technology": 78
+          },
+          "Completed": true,
+          "SGPA": 7.35
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 83.5,
+          "Subject Marks": {
+            "OOP": 79,
+            "Database Systems": 82,
+            "Cloud Computing": 91,
+            "Programming": 73,
+            "Data Structures": 76,
+            "Information Security": 94,
+            "Operating Systems": 85,
+            "Web Technology": 88
+          },
+          "Completed": true,
+          "SGPA": 8.35
+        }
+      },
+      "SGPA": 8.85,
+      "CGPA": 7.95,
+      "Department": "Information Technology"
+    }
+  },
+  {
+    "number": 123,
+    "old_id": "7376241CS123",
+    "old_email": "student123.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "CSE",
+      "Semester": 5,
+      "Email": "student123.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 91,
+        "Computer Networks": 100,
+        "Database Systems": 94,
+        "Programming": 85,
+        "Data Structures": 88,
+        "Artificial Intelligence": 65,
+        "Software Engineering": 62,
+        "Operating Systems": 97
+      },
+      "Name": "Student 123",
+      "Attendance": 77,
+      "RegisterNumber": "7376241CS123",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 85.25,
+          "Subject Marks": {
+            "OOP": 91,
+            "Computer Networks": 100,
+            "Database Systems": 94,
+            "Programming": 85,
+            "Data Structures": 88,
+            "Artificial Intelligence": 65,
+            "Software Engineering": 62,
+            "Operating Systems": 97
+          },
+          "Completed": true,
+          "SGPA": 8.53
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 85.5,
+          "Subject Marks": {
+            "OOP": 81,
+            "Computer Networks": 90,
+            "Database Systems": 84,
+            "Programming": 75,
+            "Data Structures": 78,
+            "Artificial Intelligence": 96,
+            "Software Engineering": 93,
+            "Operating Systems": 87
+          },
+          "Completed": true,
+          "SGPA": 8.55
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 75.5,
+          "Subject Marks": {
+            "OOP": 71,
+            "Computer Networks": 80,
+            "Database Systems": 74,
+            "Programming": 65,
+            "Data Structures": 68,
+            "Artificial Intelligence": 86,
+            "Software Engineering": 83,
+            "Operating Systems": 77
+          },
+          "Completed": true,
+          "SGPA": 7.55
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 80.5,
+          "Subject Marks": {
+            "OOP": 76,
+            "Computer Networks": 85,
+            "Database Systems": 79,
+            "Programming": 70,
+            "Data Structures": 73,
+            "Artificial Intelligence": 91,
+            "Software Engineering": 88,
+            "Operating Systems": 82
+          },
+          "Completed": true,
+          "SGPA": 8.05
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 85.38,
+          "Subject Marks": {
+            "OOP": 86,
+            "Computer Networks": 95,
+            "Database Systems": 89,
+            "Programming": 80,
+            "Data Structures": 83,
+            "Artificial Intelligence": 60,
+            "Software Engineering": 98,
+            "Operating Systems": 92
+          },
+          "Completed": true,
+          "SGPA": 8.54
+        }
+      },
+      "SGPA": 8.53,
+      "CGPA": 8.24,
+      "Department": "Computer Science and Engineering"
+    }
+  },
+  {
+    "number": 124,
+    "old_id": "7376241CS124",
+    "old_email": "student124.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIDS",
+      "Semester": 5,
+      "Email": "student124.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Data Science": 72,
+        "Database Systems": 60,
+        "Deep Learning": 69,
+        "Programming": 92,
+        "Data Structures": 98,
+        "Statistics": 95,
+        "Machine Learning": 63,
+        "Data Analytics": 66
+      },
+      "Name": "Student 124",
+      "Attendance": 95,
+      "RegisterNumber": "7376241CS124",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 76.88,
+          "Subject Marks": {
+            "Data Science": 72,
+            "Database Systems": 60,
+            "Deep Learning": 69,
+            "Programming": 92,
+            "Data Structures": 98,
+            "Statistics": 95,
+            "Machine Learning": 63,
+            "Data Analytics": 66
+          },
+          "Completed": true,
+          "SGPA": 7.69
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 87.38,
+          "Subject Marks": {
+            "Data Science": 62,
+            "Database Systems": 91,
+            "Deep Learning": 100,
+            "Programming": 82,
+            "Data Structures": 88,
+            "Statistics": 85,
+            "Machine Learning": 94,
+            "Data Analytics": 97
+          },
+          "Completed": true,
+          "SGPA": 8.74
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 82.5,
+          "Subject Marks": {
+            "Data Science": 93,
+            "Database Systems": 81,
+            "Deep Learning": 90,
+            "Programming": 72,
+            "Data Structures": 78,
+            "Statistics": 75,
+            "Machine Learning": 84,
+            "Data Analytics": 87
+          },
+          "Completed": true,
+          "SGPA": 8.25
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 87.5,
+          "Subject Marks": {
+            "Data Science": 98,
+            "Database Systems": 86,
+            "Deep Learning": 95,
+            "Programming": 77,
+            "Data Structures": 83,
+            "Statistics": 80,
+            "Machine Learning": 89,
+            "Data Analytics": 92
+          },
+          "Completed": true,
+          "SGPA": 8.75
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 82.12,
+          "Subject Marks": {
+            "Data Science": 67,
+            "Database Systems": 96,
+            "Deep Learning": 64,
+            "Programming": 87,
+            "Data Structures": 93,
+            "Statistics": 90,
+            "Machine Learning": 99,
+            "Data Analytics": 61
+          },
+          "Completed": true,
+          "SGPA": 8.21
+        }
+      },
+      "SGPA": 7.69,
+      "CGPA": 8.33,
+      "Department": "Artificial Intelligence and Data Science"
+    }
+  },
+  {
+    "number": 125,
+    "old_id": "7376241CS125",
+    "old_email": "student125.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIML",
+      "Semester": 5,
+      "Email": "student125.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Deep Learning": 76,
+        "Programming": 99,
+        "Data Structures": 64,
+        "Linear Algebra": 61,
+        "Probability and Statistics": 67,
+        "Machine Learning": 70,
+        "Neural Networks": 73,
+        "AI Project": 79
+      },
+      "Name": "Student 125",
+      "Attendance": 85,
+      "RegisterNumber": "7376241CS125",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 73.62,
+          "Subject Marks": {
+            "Deep Learning": 76,
+            "Programming": 99,
+            "Data Structures": 64,
+            "Linear Algebra": 61,
+            "Probability and Statistics": 67,
+            "Machine Learning": 70,
+            "Neural Networks": 73,
+            "AI Project": 79
+          },
+          "Completed": true,
+          "SGPA": 7.36
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 79.0,
+          "Subject Marks": {
+            "Deep Learning": 66,
+            "Programming": 89,
+            "Data Structures": 95,
+            "Linear Algebra": 92,
+            "Probability and Statistics": 98,
+            "Machine Learning": 60,
+            "Neural Networks": 63,
+            "AI Project": 69
+          },
+          "Completed": true,
+          "SGPA": 7.9
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 89.5,
+          "Subject Marks": {
+            "Deep Learning": 97,
+            "Programming": 79,
+            "Data Structures": 85,
+            "Linear Algebra": 82,
+            "Probability and Statistics": 88,
+            "Machine Learning": 91,
+            "Neural Networks": 94,
+            "AI Project": 100
+          },
+          "Completed": true,
+          "SGPA": 8.95
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 84.25,
+          "Subject Marks": {
+            "Deep Learning": 61,
+            "Programming": 84,
+            "Data Structures": 90,
+            "Linear Algebra": 87,
+            "Probability and Statistics": 93,
+            "Machine Learning": 96,
+            "Neural Networks": 99,
+            "AI Project": 64
+          },
+          "Completed": true,
+          "SGPA": 8.43
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 78.88,
+          "Subject Marks": {
+            "Deep Learning": 71,
+            "Programming": 94,
+            "Data Structures": 100,
+            "Linear Algebra": 97,
+            "Probability and Statistics": 62,
+            "Machine Learning": 65,
+            "Neural Networks": 68,
+            "AI Project": 74
+          },
+          "Completed": true,
+          "SGPA": 7.89
+        }
+      },
+      "SGPA": 7.36,
+      "CGPA": 8.11,
+      "Department": "Artificial Intelligence and Machine Learning"
+    }
+  },
+  {
+    "number": 126,
+    "old_id": "7376241CS126",
+    "old_email": "student126.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "EEE",
+      "Semester": 5,
+      "Email": "student126.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Electrical Machines": 71,
+        "Electromagnetic Fields": 74,
+        "Engineering Mathematics": 65,
+        "Control Systems": 80,
+        "Power Systems": 77,
+        "Electric Circuits": 68,
+        "Power Electronics": 83,
+        "Renewable Energy": 86
+      },
+      "Name": "Student 126",
+      "Attendance": 100,
+      "RegisterNumber": "7376241CS126",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 75.5,
+          "Subject Marks": {
+            "Electrical Machines": 71,
+            "Electromagnetic Fields": 74,
+            "Engineering Mathematics": 65,
+            "Control Systems": 80,
+            "Power Systems": 77,
+            "Electric Circuits": 68,
+            "Power Electronics": 83,
+            "Renewable Energy": 86
+          },
+          "Completed": true,
+          "SGPA": 7.55
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 75.75,
+          "Subject Marks": {
+            "Electrical Machines": 61,
+            "Electromagnetic Fields": 64,
+            "Engineering Mathematics": 96,
+            "Control Systems": 70,
+            "Power Systems": 67,
+            "Electric Circuits": 99,
+            "Power Electronics": 73,
+            "Renewable Energy": 76
+          },
+          "Completed": true,
+          "SGPA": 7.58
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 81.12,
+          "Subject Marks": {
+            "Electrical Machines": 92,
+            "Electromagnetic Fields": 95,
+            "Engineering Mathematics": 86,
+            "Control Systems": 60,
+            "Power Systems": 98,
+            "Electric Circuits": 89,
+            "Power Electronics": 63,
+            "Renewable Energy": 66
+          },
+          "Completed": true,
+          "SGPA": 8.11
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 81.0,
+          "Subject Marks": {
+            "Electrical Machines": 97,
+            "Electromagnetic Fields": 100,
+            "Engineering Mathematics": 91,
+            "Control Systems": 65,
+            "Power Systems": 62,
+            "Electric Circuits": 94,
+            "Power Electronics": 68,
+            "Renewable Energy": 71
+          },
+          "Completed": true,
+          "SGPA": 8.1
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 70.5,
+          "Subject Marks": {
+            "Electrical Machines": 66,
+            "Electromagnetic Fields": 69,
+            "Engineering Mathematics": 60,
+            "Control Systems": 75,
+            "Power Systems": 72,
+            "Electric Circuits": 63,
+            "Power Electronics": 78,
+            "Renewable Energy": 81
+          },
+          "Completed": true,
+          "SGPA": 7.05
+        }
+      },
+      "SGPA": 7.55,
+      "CGPA": 7.68,
+      "Department": "Electrical and Electronics Engineering"
+    }
+  },
+  {
+    "number": 127,
+    "old_id": "7376241CS127",
+    "old_email": "student127.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "ECE",
+      "Semester": 5,
+      "Email": "student127.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Wireless Communication": 93,
+        "Signals and Systems": 84,
+        "Communication Systems": 87,
+        "Circuit Analysis": 75,
+        "Electronic Devices": 78,
+        "Engineering Mathematics": 72,
+        "Embedded Systems": 90,
+        "Digital Electronics": 81
+      },
+      "Name": "Student 127",
+      "Attendance": 75,
+      "RegisterNumber": "7376241CS127",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 82.5,
+          "Subject Marks": {
+            "Wireless Communication": 93,
+            "Signals and Systems": 84,
+            "Communication Systems": 87,
+            "Circuit Analysis": 75,
+            "Electronic Devices": 78,
+            "Engineering Mathematics": 72,
+            "Embedded Systems": 90,
+            "Digital Electronics": 81
+          },
+          "Completed": true,
+          "SGPA": 8.25
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 72.5,
+          "Subject Marks": {
+            "Wireless Communication": 83,
+            "Signals and Systems": 74,
+            "Communication Systems": 77,
+            "Circuit Analysis": 65,
+            "Electronic Devices": 68,
+            "Engineering Mathematics": 62,
+            "Embedded Systems": 80,
+            "Digital Electronics": 71
+          },
+          "Completed": true,
+          "SGPA": 7.25
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 77.88,
+          "Subject Marks": {
+            "Wireless Communication": 73,
+            "Signals and Systems": 64,
+            "Communication Systems": 67,
+            "Circuit Analysis": 96,
+            "Electronic Devices": 99,
+            "Engineering Mathematics": 93,
+            "Embedded Systems": 70,
+            "Digital Electronics": 61
+          },
+          "Completed": true,
+          "SGPA": 7.79
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 72.62,
+          "Subject Marks": {
+            "Wireless Communication": 78,
+            "Signals and Systems": 69,
+            "Communication Systems": 72,
+            "Circuit Analysis": 60,
+            "Electronic Devices": 63,
+            "Engineering Mathematics": 98,
+            "Embedded Systems": 75,
+            "Digital Electronics": 66
+          },
+          "Completed": true,
+          "SGPA": 7.26
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 77.5,
+          "Subject Marks": {
+            "Wireless Communication": 88,
+            "Signals and Systems": 79,
+            "Communication Systems": 82,
+            "Circuit Analysis": 70,
+            "Electronic Devices": 73,
+            "Engineering Mathematics": 67,
+            "Embedded Systems": 85,
+            "Digital Electronics": 76
+          },
+          "Completed": true,
+          "SGPA": 7.75
+        }
+      },
+      "SGPA": 8.25,
+      "CGPA": 7.66,
+      "Department": "Electronics and Communication Engineering"
+    }
+  },
+  {
+    "number": 128,
+    "old_id": "7376241CS128",
+    "old_email": "student128.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "IT",
+      "Semester": 5,
+      "Email": "student128.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 85,
+        "Database Systems": 88,
+        "Cloud Computing": 97,
+        "Programming": 79,
+        "Data Structures": 82,
+        "Information Security": 100,
+        "Operating Systems": 91,
+        "Web Technology": 94
+      },
+      "Name": "Student 128",
+      "Attendance": 85,
+      "RegisterNumber": "7376241CS128",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 89.5,
+          "Subject Marks": {
+            "OOP": 85,
+            "Database Systems": 88,
+            "Cloud Computing": 97,
+            "Programming": 79,
+            "Data Structures": 82,
+            "Information Security": 100,
+            "Operating Systems": 91,
+            "Web Technology": 94
+          },
+          "Completed": true,
+          "SGPA": 8.95
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 79.5,
+          "Subject Marks": {
+            "OOP": 75,
+            "Database Systems": 78,
+            "Cloud Computing": 87,
+            "Programming": 69,
+            "Data Structures": 72,
+            "Information Security": 90,
+            "Operating Systems": 81,
+            "Web Technology": 84
+          },
+          "Completed": true,
+          "SGPA": 7.95
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 74.62,
+          "Subject Marks": {
+            "OOP": 65,
+            "Database Systems": 68,
+            "Cloud Computing": 77,
+            "Programming": 100,
+            "Data Structures": 62,
+            "Information Security": 80,
+            "Operating Systems": 71,
+            "Web Technology": 74
+          },
+          "Completed": true,
+          "SGPA": 7.46
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 74.5,
+          "Subject Marks": {
+            "OOP": 70,
+            "Database Systems": 73,
+            "Cloud Computing": 82,
+            "Programming": 64,
+            "Data Structures": 67,
+            "Information Security": 85,
+            "Operating Systems": 76,
+            "Web Technology": 79
+          },
+          "Completed": true,
+          "SGPA": 7.45
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 84.5,
+          "Subject Marks": {
+            "OOP": 80,
+            "Database Systems": 83,
+            "Cloud Computing": 92,
+            "Programming": 74,
+            "Data Structures": 77,
+            "Information Security": 95,
+            "Operating Systems": 86,
+            "Web Technology": 89
+          },
+          "Completed": true,
+          "SGPA": 8.45
+        }
+      },
+      "SGPA": 8.95,
+      "CGPA": 8.05,
+      "Department": "Information Technology"
+    }
+  },
+  {
+    "number": 129,
+    "old_id": "7376241CS129",
+    "old_email": "student129.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "CSE",
+      "Semester": 5,
+      "Email": "student129.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 92,
+        "Computer Networks": 60,
+        "Database Systems": 95,
+        "Programming": 86,
+        "Data Structures": 89,
+        "Artificial Intelligence": 66,
+        "Software Engineering": 63,
+        "Operating Systems": 98
+      },
+      "Name": "Student 129",
+      "Attendance": 87,
+      "RegisterNumber": "7376241CS129",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 81.12,
+          "Subject Marks": {
+            "OOP": 92,
+            "Computer Networks": 60,
+            "Database Systems": 95,
+            "Programming": 86,
+            "Data Structures": 89,
+            "Artificial Intelligence": 66,
+            "Software Engineering": 63,
+            "Operating Systems": 98
+          },
+          "Completed": true,
+          "SGPA": 8.11
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 86.5,
+          "Subject Marks": {
+            "OOP": 82,
+            "Computer Networks": 91,
+            "Database Systems": 85,
+            "Programming": 76,
+            "Data Structures": 79,
+            "Artificial Intelligence": 97,
+            "Software Engineering": 94,
+            "Operating Systems": 88
+          },
+          "Completed": true,
+          "SGPA": 8.65
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 76.5,
+          "Subject Marks": {
+            "OOP": 72,
+            "Computer Networks": 81,
+            "Database Systems": 75,
+            "Programming": 66,
+            "Data Structures": 69,
+            "Artificial Intelligence": 87,
+            "Software Engineering": 84,
+            "Operating Systems": 78
+          },
+          "Completed": true,
+          "SGPA": 7.65
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 81.5,
+          "Subject Marks": {
+            "OOP": 77,
+            "Computer Networks": 86,
+            "Database Systems": 80,
+            "Programming": 71,
+            "Data Structures": 74,
+            "Artificial Intelligence": 92,
+            "Software Engineering": 89,
+            "Operating Systems": 83
+          },
+          "Completed": true,
+          "SGPA": 8.15
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 86.38,
+          "Subject Marks": {
+            "OOP": 87,
+            "Computer Networks": 96,
+            "Database Systems": 90,
+            "Programming": 81,
+            "Data Structures": 84,
+            "Artificial Intelligence": 61,
+            "Software Engineering": 99,
+            "Operating Systems": 93
+          },
+          "Completed": true,
+          "SGPA": 8.64
+        }
+      },
+      "SGPA": 8.11,
+      "CGPA": 8.24,
+      "Department": "Computer Science and Engineering"
+    }
+  },
+  {
+    "number": 130,
+    "old_id": "7376241CS130",
+    "old_email": "student130.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIDS",
+      "Semester": 5,
+      "Email": "student130.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Data Science": 73,
+        "Database Systems": 61,
+        "Deep Learning": 70,
+        "Programming": 93,
+        "Data Structures": 99,
+        "Statistics": 96,
+        "Machine Learning": 64,
+        "Data Analytics": 67
+      },
+      "Name": "Student 130",
+      "Attendance": 85,
+      "RegisterNumber": "7376241CS130",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 77.88,
+          "Subject Marks": {
+            "Data Science": 73,
+            "Database Systems": 61,
+            "Deep Learning": 70,
+            "Programming": 93,
+            "Data Structures": 99,
+            "Statistics": 96,
+            "Machine Learning": 64,
+            "Data Analytics": 67
+          },
+          "Completed": true,
+          "SGPA": 7.79
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 83.25,
+          "Subject Marks": {
+            "Data Science": 63,
+            "Database Systems": 92,
+            "Deep Learning": 60,
+            "Programming": 83,
+            "Data Structures": 89,
+            "Statistics": 86,
+            "Machine Learning": 95,
+            "Data Analytics": 98
+          },
+          "Completed": true,
+          "SGPA": 8.32
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 83.5,
+          "Subject Marks": {
+            "Data Science": 94,
+            "Database Systems": 82,
+            "Deep Learning": 91,
+            "Programming": 73,
+            "Data Structures": 79,
+            "Statistics": 76,
+            "Machine Learning": 85,
+            "Data Analytics": 88
+          },
+          "Completed": true,
+          "SGPA": 8.35
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 88.5,
+          "Subject Marks": {
+            "Data Science": 99,
+            "Database Systems": 87,
+            "Deep Learning": 96,
+            "Programming": 78,
+            "Data Structures": 84,
+            "Statistics": 81,
+            "Machine Learning": 90,
+            "Data Analytics": 93
+          },
+          "Completed": true,
+          "SGPA": 8.85
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 83.12,
+          "Subject Marks": {
+            "Data Science": 68,
+            "Database Systems": 97,
+            "Deep Learning": 65,
+            "Programming": 88,
+            "Data Structures": 94,
+            "Statistics": 91,
+            "Machine Learning": 100,
+            "Data Analytics": 62
+          },
+          "Completed": true,
+          "SGPA": 8.31
+        }
+      },
+      "SGPA": 7.79,
+      "CGPA": 8.32,
+      "Department": "Artificial Intelligence and Data Science"
+    }
+  },
+  {
+    "number": 131,
+    "old_id": "7376241CS131",
+    "old_email": "student131.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIML",
+      "Semester": 5,
+      "Email": "student131.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Deep Learning": 77,
+        "Programming": 100,
+        "Data Structures": 65,
+        "Linear Algebra": 62,
+        "Probability and Statistics": 68,
+        "Machine Learning": 71,
+        "Neural Networks": 74,
+        "AI Project": 80
+      },
+      "Name": "Student 131",
+      "Attendance": 75,
+      "RegisterNumber": "7376241CS131",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 74.62,
+          "Subject Marks": {
+            "Deep Learning": 77,
+            "Programming": 100,
+            "Data Structures": 65,
+            "Linear Algebra": 62,
+            "Probability and Statistics": 68,
+            "Machine Learning": 71,
+            "Neural Networks": 74,
+            "AI Project": 80
+          },
+          "Completed": true,
+          "SGPA": 7.46
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 80.0,
+          "Subject Marks": {
+            "Deep Learning": 67,
+            "Programming": 90,
+            "Data Structures": 96,
+            "Linear Algebra": 93,
+            "Probability and Statistics": 99,
+            "Machine Learning": 61,
+            "Neural Networks": 64,
+            "AI Project": 70
+          },
+          "Completed": true,
+          "SGPA": 8.0
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 85.38,
+          "Subject Marks": {
+            "Deep Learning": 98,
+            "Programming": 80,
+            "Data Structures": 86,
+            "Linear Algebra": 83,
+            "Probability and Statistics": 89,
+            "Machine Learning": 92,
+            "Neural Networks": 95,
+            "AI Project": 60
+          },
+          "Completed": true,
+          "SGPA": 8.54
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 85.25,
+          "Subject Marks": {
+            "Deep Learning": 62,
+            "Programming": 85,
+            "Data Structures": 91,
+            "Linear Algebra": 88,
+            "Probability and Statistics": 94,
+            "Machine Learning": 97,
+            "Neural Networks": 100,
+            "AI Project": 65
+          },
+          "Completed": true,
+          "SGPA": 8.53
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 74.75,
+          "Subject Marks": {
+            "Deep Learning": 72,
+            "Programming": 95,
+            "Data Structures": 60,
+            "Linear Algebra": 98,
+            "Probability and Statistics": 63,
+            "Machine Learning": 66,
+            "Neural Networks": 69,
+            "AI Project": 75
+          },
+          "Completed": true,
+          "SGPA": 7.47
+        }
+      },
+      "SGPA": 7.46,
+      "CGPA": 8.0,
+      "Department": "Artificial Intelligence and Machine Learning"
+    }
+  },
+  {
+    "number": 132,
+    "old_id": "7376241CS132",
+    "old_email": "student132.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "EEE",
+      "Semester": 5,
+      "Email": "student132.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Electrical Machines": 72,
+        "Electromagnetic Fields": 75,
+        "Engineering Mathematics": 66,
+        "Control Systems": 81,
+        "Power Systems": 78,
+        "Electric Circuits": 69,
+        "Power Electronics": 84,
+        "Renewable Energy": 87
+      },
+      "Name": "Student 132",
+      "Attendance": 93,
+      "RegisterNumber": "7376241CS132",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 76.5,
+          "Subject Marks": {
+            "Electrical Machines": 72,
+            "Electromagnetic Fields": 75,
+            "Engineering Mathematics": 66,
+            "Control Systems": 81,
+            "Power Systems": 78,
+            "Electric Circuits": 69,
+            "Power Electronics": 84,
+            "Renewable Energy": 87
+          },
+          "Completed": true,
+          "SGPA": 7.65
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 76.75,
+          "Subject Marks": {
+            "Electrical Machines": 62,
+            "Electromagnetic Fields": 65,
+            "Engineering Mathematics": 97,
+            "Control Systems": 71,
+            "Power Systems": 68,
+            "Electric Circuits": 100,
+            "Power Electronics": 74,
+            "Renewable Energy": 77
+          },
+          "Completed": true,
+          "SGPA": 7.67
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 82.12,
+          "Subject Marks": {
+            "Electrical Machines": 93,
+            "Electromagnetic Fields": 96,
+            "Engineering Mathematics": 87,
+            "Control Systems": 61,
+            "Power Systems": 99,
+            "Electric Circuits": 90,
+            "Power Electronics": 64,
+            "Renewable Energy": 67
+          },
+          "Completed": true,
+          "SGPA": 8.21
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 76.88,
+          "Subject Marks": {
+            "Electrical Machines": 98,
+            "Electromagnetic Fields": 60,
+            "Engineering Mathematics": 92,
+            "Control Systems": 66,
+            "Power Systems": 63,
+            "Electric Circuits": 95,
+            "Power Electronics": 69,
+            "Renewable Energy": 72
+          },
+          "Completed": true,
+          "SGPA": 7.69
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 71.5,
+          "Subject Marks": {
+            "Electrical Machines": 67,
+            "Electromagnetic Fields": 70,
+            "Engineering Mathematics": 61,
+            "Control Systems": 76,
+            "Power Systems": 73,
+            "Electric Circuits": 64,
+            "Power Electronics": 79,
+            "Renewable Energy": 82
+          },
+          "Completed": true,
+          "SGPA": 7.15
+        }
+      },
+      "SGPA": 7.65,
+      "CGPA": 7.67,
+      "Department": "Electrical and Electronics Engineering"
+    }
+  },
+  {
+    "number": 133,
+    "old_id": "7376241CS133",
+    "old_email": "student133.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "ECE",
+      "Semester": 5,
+      "Email": "student133.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Wireless Communication": 94,
+        "Signals and Systems": 85,
+        "Communication Systems": 88,
+        "Circuit Analysis": 76,
+        "Electronic Devices": 79,
+        "Engineering Mathematics": 73,
+        "Embedded Systems": 91,
+        "Digital Electronics": 82
+      },
+      "Name": "Student 133",
+      "Attendance": 78,
+      "RegisterNumber": "7376241CS133",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 83.5,
+          "Subject Marks": {
+            "Wireless Communication": 94,
+            "Signals and Systems": 85,
+            "Communication Systems": 88,
+            "Circuit Analysis": 76,
+            "Electronic Devices": 79,
+            "Engineering Mathematics": 73,
+            "Embedded Systems": 91,
+            "Digital Electronics": 82
+          },
+          "Completed": true,
+          "SGPA": 8.35
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 73.5,
+          "Subject Marks": {
+            "Wireless Communication": 84,
+            "Signals and Systems": 75,
+            "Communication Systems": 78,
+            "Circuit Analysis": 66,
+            "Electronic Devices": 69,
+            "Engineering Mathematics": 63,
+            "Embedded Systems": 81,
+            "Digital Electronics": 72
+          },
+          "Completed": true,
+          "SGPA": 7.35
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 78.88,
+          "Subject Marks": {
+            "Wireless Communication": 74,
+            "Signals and Systems": 65,
+            "Communication Systems": 68,
+            "Circuit Analysis": 97,
+            "Electronic Devices": 100,
+            "Engineering Mathematics": 94,
+            "Embedded Systems": 71,
+            "Digital Electronics": 62
+          },
+          "Completed": true,
+          "SGPA": 7.89
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 73.62,
+          "Subject Marks": {
+            "Wireless Communication": 79,
+            "Signals and Systems": 70,
+            "Communication Systems": 73,
+            "Circuit Analysis": 61,
+            "Electronic Devices": 64,
+            "Engineering Mathematics": 99,
+            "Embedded Systems": 76,
+            "Digital Electronics": 67
+          },
+          "Completed": true,
+          "SGPA": 7.36
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 78.5,
+          "Subject Marks": {
+            "Wireless Communication": 89,
+            "Signals and Systems": 80,
+            "Communication Systems": 83,
+            "Circuit Analysis": 71,
+            "Electronic Devices": 74,
+            "Engineering Mathematics": 68,
+            "Embedded Systems": 86,
+            "Digital Electronics": 77
+          },
+          "Completed": true,
+          "SGPA": 7.85
+        }
+      },
+      "SGPA": 8.35,
+      "CGPA": 7.76,
+      "Department": "Electronics and Communication Engineering"
+    }
+  },
+  {
+    "number": 134,
+    "old_id": "7376241CS134",
+    "old_email": "student134.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "IT",
+      "Semester": 5,
+      "Email": "student134.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 86,
+        "Database Systems": 89,
+        "Cloud Computing": 98,
+        "Programming": 80,
+        "Data Structures": 83,
+        "Information Security": 60,
+        "Operating Systems": 92,
+        "Web Technology": 95
+      },
+      "Name": "Student 134",
+      "Attendance": 90,
+      "RegisterNumber": "7376241CS134",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 85.38,
+          "Subject Marks": {
+            "OOP": 86,
+            "Database Systems": 89,
+            "Cloud Computing": 98,
+            "Programming": 80,
+            "Data Structures": 83,
+            "Information Security": 60,
+            "Operating Systems": 92,
+            "Web Technology": 95
+          },
+          "Completed": true,
+          "SGPA": 8.54
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 80.5,
+          "Subject Marks": {
+            "OOP": 76,
+            "Database Systems": 79,
+            "Cloud Computing": 88,
+            "Programming": 70,
+            "Data Structures": 73,
+            "Information Security": 91,
+            "Operating Systems": 82,
+            "Web Technology": 85
+          },
+          "Completed": true,
+          "SGPA": 8.05
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 70.5,
+          "Subject Marks": {
+            "OOP": 66,
+            "Database Systems": 69,
+            "Cloud Computing": 78,
+            "Programming": 60,
+            "Data Structures": 63,
+            "Information Security": 81,
+            "Operating Systems": 72,
+            "Web Technology": 75
+          },
+          "Completed": true,
+          "SGPA": 7.05
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 75.5,
+          "Subject Marks": {
+            "OOP": 71,
+            "Database Systems": 74,
+            "Cloud Computing": 83,
+            "Programming": 65,
+            "Data Structures": 68,
+            "Information Security": 86,
+            "Operating Systems": 77,
+            "Web Technology": 80
+          },
+          "Completed": true,
+          "SGPA": 7.55
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 85.5,
+          "Subject Marks": {
+            "OOP": 81,
+            "Database Systems": 84,
+            "Cloud Computing": 93,
+            "Programming": 75,
+            "Data Structures": 78,
+            "Information Security": 96,
+            "Operating Systems": 87,
+            "Web Technology": 90
+          },
+          "Completed": true,
+          "SGPA": 8.55
+        }
+      },
+      "SGPA": 8.54,
+      "CGPA": 7.95,
+      "Department": "Information Technology"
+    }
+  },
+  {
+    "number": 135,
+    "old_id": "7376241CS135",
+    "old_email": "student135.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "CSE",
+      "Semester": 5,
+      "Email": "student135.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 93,
+        "Computer Networks": 61,
+        "Database Systems": 96,
+        "Programming": 87,
+        "Data Structures": 90,
+        "Artificial Intelligence": 67,
+        "Software Engineering": 64,
+        "Operating Systems": 99
+      },
+      "Name": "Student 135",
+      "Attendance": 87,
+      "RegisterNumber": "7376241CS135",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 82.12,
+          "Subject Marks": {
+            "OOP": 93,
+            "Computer Networks": 61,
+            "Database Systems": 96,
+            "Programming": 87,
+            "Data Structures": 90,
+            "Artificial Intelligence": 67,
+            "Software Engineering": 64,
+            "Operating Systems": 99
+          },
+          "Completed": true,
+          "SGPA": 8.21
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 87.5,
+          "Subject Marks": {
+            "OOP": 83,
+            "Computer Networks": 92,
+            "Database Systems": 86,
+            "Programming": 77,
+            "Data Structures": 80,
+            "Artificial Intelligence": 98,
+            "Software Engineering": 95,
+            "Operating Systems": 89
+          },
+          "Completed": true,
+          "SGPA": 8.75
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 77.5,
+          "Subject Marks": {
+            "OOP": 73,
+            "Computer Networks": 82,
+            "Database Systems": 76,
+            "Programming": 67,
+            "Data Structures": 70,
+            "Artificial Intelligence": 88,
+            "Software Engineering": 85,
+            "Operating Systems": 79
+          },
+          "Completed": true,
+          "SGPA": 7.75
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 82.5,
+          "Subject Marks": {
+            "OOP": 78,
+            "Computer Networks": 87,
+            "Database Systems": 81,
+            "Programming": 72,
+            "Data Structures": 75,
+            "Artificial Intelligence": 93,
+            "Software Engineering": 90,
+            "Operating Systems": 84
+          },
+          "Completed": true,
+          "SGPA": 8.25
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 87.38,
+          "Subject Marks": {
+            "OOP": 88,
+            "Computer Networks": 97,
+            "Database Systems": 91,
+            "Programming": 82,
+            "Data Structures": 85,
+            "Artificial Intelligence": 62,
+            "Software Engineering": 100,
+            "Operating Systems": 94
+          },
+          "Completed": true,
+          "SGPA": 8.74
+        }
+      },
+      "SGPA": 8.21,
+      "CGPA": 8.34,
+      "Department": "Computer Science and Engineering"
+    }
+  },
+  {
+    "number": 136,
+    "old_id": "7376241CS136",
+    "old_email": "student136.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIDS",
+      "Semester": 5,
+      "Email": "student136.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Data Science": 74,
+        "Database Systems": 62,
+        "Deep Learning": 71,
+        "Programming": 94,
+        "Data Structures": 100,
+        "Statistics": 97,
+        "Machine Learning": 65,
+        "Data Analytics": 68
+      },
+      "Name": "Student 136",
+      "Attendance": 75,
+      "RegisterNumber": "7376241CS136",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 78.88,
+          "Subject Marks": {
+            "Data Science": 74,
+            "Database Systems": 62,
+            "Deep Learning": 71,
+            "Programming": 94,
+            "Data Structures": 100,
+            "Statistics": 97,
+            "Machine Learning": 65,
+            "Data Analytics": 68
+          },
+          "Completed": true,
+          "SGPA": 7.89
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 84.25,
+          "Subject Marks": {
+            "Data Science": 64,
+            "Database Systems": 93,
+            "Deep Learning": 61,
+            "Programming": 84,
+            "Data Structures": 90,
+            "Statistics": 87,
+            "Machine Learning": 96,
+            "Data Analytics": 99
+          },
+          "Completed": true,
+          "SGPA": 8.43
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 84.5,
+          "Subject Marks": {
+            "Data Science": 95,
+            "Database Systems": 83,
+            "Deep Learning": 92,
+            "Programming": 74,
+            "Data Structures": 80,
+            "Statistics": 77,
+            "Machine Learning": 86,
+            "Data Analytics": 89
+          },
+          "Completed": true,
+          "SGPA": 8.45
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 89.5,
+          "Subject Marks": {
+            "Data Science": 100,
+            "Database Systems": 88,
+            "Deep Learning": 97,
+            "Programming": 79,
+            "Data Structures": 85,
+            "Statistics": 82,
+            "Machine Learning": 91,
+            "Data Analytics": 94
+          },
+          "Completed": true,
+          "SGPA": 8.95
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 79.0,
+          "Subject Marks": {
+            "Data Science": 69,
+            "Database Systems": 98,
+            "Deep Learning": 66,
+            "Programming": 89,
+            "Data Structures": 95,
+            "Statistics": 92,
+            "Machine Learning": 60,
+            "Data Analytics": 63
+          },
+          "Completed": true,
+          "SGPA": 7.9
+        }
+      },
+      "SGPA": 7.89,
+      "CGPA": 8.32,
+      "Department": "Artificial Intelligence and Data Science"
+    }
+  },
+  {
+    "number": 137,
+    "old_id": "7376241CS137",
+    "old_email": "student137.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIML",
+      "Semester": 5,
+      "Email": "student137.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Deep Learning": 78,
+        "Programming": 60,
+        "Data Structures": 66,
+        "Linear Algebra": 63,
+        "Probability and Statistics": 69,
+        "Machine Learning": 72,
+        "Neural Networks": 75,
+        "AI Project": 81
+      },
+      "Name": "Student 137",
+      "Attendance": 89,
+      "RegisterNumber": "7376241CS137",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 70.5,
+          "Subject Marks": {
+            "Deep Learning": 78,
+            "Programming": 60,
+            "Data Structures": 66,
+            "Linear Algebra": 63,
+            "Probability and Statistics": 69,
+            "Machine Learning": 72,
+            "Neural Networks": 75,
+            "AI Project": 81
+          },
+          "Completed": true,
+          "SGPA": 7.05
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 81.0,
+          "Subject Marks": {
+            "Deep Learning": 68,
+            "Programming": 91,
+            "Data Structures": 97,
+            "Linear Algebra": 94,
+            "Probability and Statistics": 100,
+            "Machine Learning": 62,
+            "Neural Networks": 65,
+            "AI Project": 71
+          },
+          "Completed": true,
+          "SGPA": 8.1
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 86.38,
+          "Subject Marks": {
+            "Deep Learning": 99,
+            "Programming": 81,
+            "Data Structures": 87,
+            "Linear Algebra": 84,
+            "Probability and Statistics": 90,
+            "Machine Learning": 93,
+            "Neural Networks": 96,
+            "AI Project": 61
+          },
+          "Completed": true,
+          "SGPA": 8.64
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 81.12,
+          "Subject Marks": {
+            "Deep Learning": 63,
+            "Programming": 86,
+            "Data Structures": 92,
+            "Linear Algebra": 89,
+            "Probability and Statistics": 95,
+            "Machine Learning": 98,
+            "Neural Networks": 60,
+            "AI Project": 66
+          },
+          "Completed": true,
+          "SGPA": 8.11
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 75.75,
+          "Subject Marks": {
+            "Deep Learning": 73,
+            "Programming": 96,
+            "Data Structures": 61,
+            "Linear Algebra": 99,
+            "Probability and Statistics": 64,
+            "Machine Learning": 67,
+            "Neural Networks": 70,
+            "AI Project": 76
+          },
+          "Completed": true,
+          "SGPA": 7.58
+        }
+      },
+      "SGPA": 7.05,
+      "CGPA": 7.9,
+      "Department": "Artificial Intelligence and Machine Learning"
+    }
+  },
+  {
+    "number": 138,
+    "old_id": "7376241CS138",
+    "old_email": "student138.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "EEE",
+      "Semester": 5,
+      "Email": "student138.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Electrical Machines": 73,
+        "Electromagnetic Fields": 76,
+        "Engineering Mathematics": 67,
+        "Control Systems": 82,
+        "Power Systems": 79,
+        "Electric Circuits": 70,
+        "Power Electronics": 85,
+        "Renewable Energy": 88
+      },
+      "Name": "Student 138",
+      "Attendance": 97,
+      "RegisterNumber": "7376241CS138",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 77.5,
+          "Subject Marks": {
+            "Electrical Machines": 73,
+            "Electromagnetic Fields": 76,
+            "Engineering Mathematics": 67,
+            "Control Systems": 82,
+            "Power Systems": 79,
+            "Electric Circuits": 70,
+            "Power Electronics": 85,
+            "Renewable Energy": 88
+          },
+          "Completed": true,
+          "SGPA": 7.75
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 72.62,
+          "Subject Marks": {
+            "Electrical Machines": 63,
+            "Electromagnetic Fields": 66,
+            "Engineering Mathematics": 98,
+            "Control Systems": 72,
+            "Power Systems": 69,
+            "Electric Circuits": 60,
+            "Power Electronics": 75,
+            "Renewable Energy": 78
+          },
+          "Completed": true,
+          "SGPA": 7.26
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 83.12,
+          "Subject Marks": {
+            "Electrical Machines": 94,
+            "Electromagnetic Fields": 97,
+            "Engineering Mathematics": 88,
+            "Control Systems": 62,
+            "Power Systems": 100,
+            "Electric Circuits": 91,
+            "Power Electronics": 65,
+            "Renewable Energy": 68
+          },
+          "Completed": true,
+          "SGPA": 8.31
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 77.88,
+          "Subject Marks": {
+            "Electrical Machines": 99,
+            "Electromagnetic Fields": 61,
+            "Engineering Mathematics": 93,
+            "Control Systems": 67,
+            "Power Systems": 64,
+            "Electric Circuits": 96,
+            "Power Electronics": 70,
+            "Renewable Energy": 73
+          },
+          "Completed": true,
+          "SGPA": 7.79
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 72.5,
+          "Subject Marks": {
+            "Electrical Machines": 68,
+            "Electromagnetic Fields": 71,
+            "Engineering Mathematics": 62,
+            "Control Systems": 77,
+            "Power Systems": 74,
+            "Electric Circuits": 65,
+            "Power Electronics": 80,
+            "Renewable Energy": 83
+          },
+          "Completed": true,
+          "SGPA": 7.25
+        }
+      },
+      "SGPA": 7.75,
+      "CGPA": 7.67,
+      "Department": "Electrical and Electronics Engineering"
+    }
+  },
+  {
+    "number": 139,
+    "old_id": "7376241CS139",
+    "old_email": "student139.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "ECE",
+      "Semester": 5,
+      "Email": "student139.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Wireless Communication": 95,
+        "Signals and Systems": 86,
+        "Communication Systems": 89,
+        "Circuit Analysis": 77,
+        "Electronic Devices": 80,
+        "Engineering Mathematics": 74,
+        "Embedded Systems": 92,
+        "Digital Electronics": 83
+      },
+      "Name": "Student 139",
+      "Attendance": 80,
+      "RegisterNumber": "7376241CS139",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 84.5,
+          "Subject Marks": {
+            "Wireless Communication": 95,
+            "Signals and Systems": 86,
+            "Communication Systems": 89,
+            "Circuit Analysis": 77,
+            "Electronic Devices": 80,
+            "Engineering Mathematics": 74,
+            "Embedded Systems": 92,
+            "Digital Electronics": 83
+          },
+          "Completed": true,
+          "SGPA": 8.45
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 74.5,
+          "Subject Marks": {
+            "Wireless Communication": 85,
+            "Signals and Systems": 76,
+            "Communication Systems": 79,
+            "Circuit Analysis": 67,
+            "Electronic Devices": 70,
+            "Engineering Mathematics": 64,
+            "Embedded Systems": 82,
+            "Digital Electronics": 73
+          },
+          "Completed": true,
+          "SGPA": 7.45
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 74.75,
+          "Subject Marks": {
+            "Wireless Communication": 75,
+            "Signals and Systems": 66,
+            "Communication Systems": 69,
+            "Circuit Analysis": 98,
+            "Electronic Devices": 60,
+            "Engineering Mathematics": 95,
+            "Embedded Systems": 72,
+            "Digital Electronics": 63
+          },
+          "Completed": true,
+          "SGPA": 7.47
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 74.62,
+          "Subject Marks": {
+            "Wireless Communication": 80,
+            "Signals and Systems": 71,
+            "Communication Systems": 74,
+            "Circuit Analysis": 62,
+            "Electronic Devices": 65,
+            "Engineering Mathematics": 100,
+            "Embedded Systems": 77,
+            "Digital Electronics": 68
+          },
+          "Completed": true,
+          "SGPA": 7.46
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 79.5,
+          "Subject Marks": {
+            "Wireless Communication": 90,
+            "Signals and Systems": 81,
+            "Communication Systems": 84,
+            "Circuit Analysis": 72,
+            "Electronic Devices": 75,
+            "Engineering Mathematics": 69,
+            "Embedded Systems": 87,
+            "Digital Electronics": 78
+          },
+          "Completed": true,
+          "SGPA": 7.95
+        }
+      },
+      "SGPA": 8.45,
+      "CGPA": 7.76,
+      "Department": "Electronics and Communication Engineering"
+    }
+  },
+  {
+    "number": 140,
+    "old_id": "7376241CS140",
+    "old_email": "student140.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "IT",
+      "Semester": 5,
+      "Email": "student140.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 87,
+        "Database Systems": 90,
+        "Cloud Computing": 99,
+        "Programming": 81,
+        "Data Structures": 84,
+        "Information Security": 61,
+        "Operating Systems": 93,
+        "Web Technology": 96
+      },
+      "Name": "Student 140",
+      "Attendance": 89,
+      "RegisterNumber": "7376241CS140",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 86.38,
+          "Subject Marks": {
+            "OOP": 87,
+            "Database Systems": 90,
+            "Cloud Computing": 99,
+            "Programming": 81,
+            "Data Structures": 84,
+            "Information Security": 61,
+            "Operating Systems": 93,
+            "Web Technology": 96
+          },
+          "Completed": true,
+          "SGPA": 8.64
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 81.5,
+          "Subject Marks": {
+            "OOP": 77,
+            "Database Systems": 80,
+            "Cloud Computing": 89,
+            "Programming": 71,
+            "Data Structures": 74,
+            "Information Security": 92,
+            "Operating Systems": 83,
+            "Web Technology": 86
+          },
+          "Completed": true,
+          "SGPA": 8.15
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 71.5,
+          "Subject Marks": {
+            "OOP": 67,
+            "Database Systems": 70,
+            "Cloud Computing": 79,
+            "Programming": 61,
+            "Data Structures": 64,
+            "Information Security": 82,
+            "Operating Systems": 73,
+            "Web Technology": 76
+          },
+          "Completed": true,
+          "SGPA": 7.15
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 76.5,
+          "Subject Marks": {
+            "OOP": 72,
+            "Database Systems": 75,
+            "Cloud Computing": 84,
+            "Programming": 66,
+            "Data Structures": 69,
+            "Information Security": 87,
+            "Operating Systems": 78,
+            "Web Technology": 81
+          },
+          "Completed": true,
+          "SGPA": 7.65
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 86.5,
+          "Subject Marks": {
+            "OOP": 82,
+            "Database Systems": 85,
+            "Cloud Computing": 94,
+            "Programming": 76,
+            "Data Structures": 79,
+            "Information Security": 97,
+            "Operating Systems": 88,
+            "Web Technology": 91
+          },
+          "Completed": true,
+          "SGPA": 8.65
+        }
+      },
+      "SGPA": 8.64,
+      "CGPA": 8.05,
+      "Department": "Information Technology"
+    }
+  },
+  {
+    "number": 141,
+    "old_id": "7376241CS141",
+    "old_email": "student141.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "CSE",
+      "Semester": 5,
+      "Email": "student141.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 94,
+        "Computer Networks": 62,
+        "Database Systems": 97,
+        "Programming": 88,
+        "Data Structures": 91,
+        "Artificial Intelligence": 68,
+        "Software Engineering": 65,
+        "Operating Systems": 100
+      },
+      "Name": "Student 141",
+      "Attendance": 84,
+      "RegisterNumber": "7376241CS141",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 83.12,
+          "Subject Marks": {
+            "OOP": 94,
+            "Computer Networks": 62,
+            "Database Systems": 97,
+            "Programming": 88,
+            "Data Structures": 91,
+            "Artificial Intelligence": 68,
+            "Software Engineering": 65,
+            "Operating Systems": 100
+          },
+          "Completed": true,
+          "SGPA": 8.31
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 88.5,
+          "Subject Marks": {
+            "OOP": 84,
+            "Computer Networks": 93,
+            "Database Systems": 87,
+            "Programming": 78,
+            "Data Structures": 81,
+            "Artificial Intelligence": 99,
+            "Software Engineering": 96,
+            "Operating Systems": 90
+          },
+          "Completed": true,
+          "SGPA": 8.85
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 78.5,
+          "Subject Marks": {
+            "OOP": 74,
+            "Computer Networks": 83,
+            "Database Systems": 77,
+            "Programming": 68,
+            "Data Structures": 71,
+            "Artificial Intelligence": 89,
+            "Software Engineering": 86,
+            "Operating Systems": 80
+          },
+          "Completed": true,
+          "SGPA": 7.85
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 83.5,
+          "Subject Marks": {
+            "OOP": 79,
+            "Computer Networks": 88,
+            "Database Systems": 82,
+            "Programming": 73,
+            "Data Structures": 76,
+            "Artificial Intelligence": 94,
+            "Software Engineering": 91,
+            "Operating Systems": 85
+          },
+          "Completed": true,
+          "SGPA": 8.35
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 83.25,
+          "Subject Marks": {
+            "OOP": 89,
+            "Computer Networks": 98,
+            "Database Systems": 92,
+            "Programming": 83,
+            "Data Structures": 86,
+            "Artificial Intelligence": 63,
+            "Software Engineering": 60,
+            "Operating Systems": 95
+          },
+          "Completed": true,
+          "SGPA": 8.32
+        }
+      },
+      "SGPA": 8.31,
+      "CGPA": 8.34,
+      "Department": "Computer Science and Engineering"
+    }
+  },
+  {
+    "number": 142,
+    "old_id": "7376241CS142",
+    "old_email": "student142.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIDS",
+      "Semester": 5,
+      "Email": "student142.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Data Science": 75,
+        "Database Systems": 63,
+        "Deep Learning": 72,
+        "Programming": 95,
+        "Data Structures": 60,
+        "Statistics": 98,
+        "Machine Learning": 66,
+        "Data Analytics": 69
+      },
+      "Name": "Student 142",
+      "Attendance": 92,
+      "RegisterNumber": "7376241CS142",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 74.75,
+          "Subject Marks": {
+            "Data Science": 75,
+            "Database Systems": 63,
+            "Deep Learning": 72,
+            "Programming": 95,
+            "Data Structures": 60,
+            "Statistics": 98,
+            "Machine Learning": 66,
+            "Data Analytics": 69
+          },
+          "Completed": true,
+          "SGPA": 7.47
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 85.25,
+          "Subject Marks": {
+            "Data Science": 65,
+            "Database Systems": 94,
+            "Deep Learning": 62,
+            "Programming": 85,
+            "Data Structures": 91,
+            "Statistics": 88,
+            "Machine Learning": 97,
+            "Data Analytics": 100
+          },
+          "Completed": true,
+          "SGPA": 8.53
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 85.5,
+          "Subject Marks": {
+            "Data Science": 96,
+            "Database Systems": 84,
+            "Deep Learning": 93,
+            "Programming": 75,
+            "Data Structures": 81,
+            "Statistics": 78,
+            "Machine Learning": 87,
+            "Data Analytics": 90
+          },
+          "Completed": true,
+          "SGPA": 8.55
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 85.38,
+          "Subject Marks": {
+            "Data Science": 60,
+            "Database Systems": 89,
+            "Deep Learning": 98,
+            "Programming": 80,
+            "Data Structures": 86,
+            "Statistics": 83,
+            "Machine Learning": 92,
+            "Data Analytics": 95
+          },
+          "Completed": true,
+          "SGPA": 8.54
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 80.0,
+          "Subject Marks": {
+            "Data Science": 70,
+            "Database Systems": 99,
+            "Deep Learning": 67,
+            "Programming": 90,
+            "Data Structures": 96,
+            "Statistics": 93,
+            "Machine Learning": 61,
+            "Data Analytics": 64
+          },
+          "Completed": true,
+          "SGPA": 8.0
+        }
+      },
+      "SGPA": 7.47,
+      "CGPA": 8.22,
+      "Department": "Artificial Intelligence and Data Science"
+    }
+  },
+  {
+    "number": 143,
+    "old_id": "7376241CS143",
+    "old_email": "student143.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIML",
+      "Semester": 5,
+      "Email": "student143.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Deep Learning": 79,
+        "Programming": 61,
+        "Data Structures": 67,
+        "Linear Algebra": 64,
+        "Probability and Statistics": 70,
+        "Machine Learning": 73,
+        "Neural Networks": 76,
+        "AI Project": 82
+      },
+      "Name": "Student 143",
+      "Attendance": 86,
+      "RegisterNumber": "7376241CS143",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 71.5,
+          "Subject Marks": {
+            "Deep Learning": 79,
+            "Programming": 61,
+            "Data Structures": 67,
+            "Linear Algebra": 64,
+            "Probability and Statistics": 70,
+            "Machine Learning": 73,
+            "Neural Networks": 76,
+            "AI Project": 82
+          },
+          "Completed": true,
+          "SGPA": 7.15
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 76.88,
+          "Subject Marks": {
+            "Deep Learning": 69,
+            "Programming": 92,
+            "Data Structures": 98,
+            "Linear Algebra": 95,
+            "Probability and Statistics": 60,
+            "Machine Learning": 63,
+            "Neural Networks": 66,
+            "AI Project": 72
+          },
+          "Completed": true,
+          "SGPA": 7.69
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 87.38,
+          "Subject Marks": {
+            "Deep Learning": 100,
+            "Programming": 82,
+            "Data Structures": 88,
+            "Linear Algebra": 85,
+            "Probability and Statistics": 91,
+            "Machine Learning": 94,
+            "Neural Networks": 97,
+            "AI Project": 62
+          },
+          "Completed": true,
+          "SGPA": 8.74
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 82.12,
+          "Subject Marks": {
+            "Deep Learning": 64,
+            "Programming": 87,
+            "Data Structures": 93,
+            "Linear Algebra": 90,
+            "Probability and Statistics": 96,
+            "Machine Learning": 99,
+            "Neural Networks": 61,
+            "AI Project": 67
+          },
+          "Completed": true,
+          "SGPA": 8.21
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 76.75,
+          "Subject Marks": {
+            "Deep Learning": 74,
+            "Programming": 97,
+            "Data Structures": 62,
+            "Linear Algebra": 100,
+            "Probability and Statistics": 65,
+            "Machine Learning": 68,
+            "Neural Networks": 71,
+            "AI Project": 77
+          },
+          "Completed": true,
+          "SGPA": 7.67
+        }
+      },
+      "SGPA": 7.15,
+      "CGPA": 7.89,
+      "Department": "Artificial Intelligence and Machine Learning"
+    }
+  },
+  {
+    "number": 144,
+    "old_id": "7376241CS144",
+    "old_email": "student144.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "EEE",
+      "Semester": 5,
+      "Email": "student144.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Electrical Machines": 74,
+        "Electromagnetic Fields": 77,
+        "Engineering Mathematics": 68,
+        "Control Systems": 83,
+        "Power Systems": 80,
+        "Electric Circuits": 71,
+        "Power Electronics": 86,
+        "Renewable Energy": 89
+      },
+      "Name": "Student 144",
+      "Attendance": 82,
+      "RegisterNumber": "7376241CS144",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 78.5,
+          "Subject Marks": {
+            "Electrical Machines": 74,
+            "Electromagnetic Fields": 77,
+            "Engineering Mathematics": 68,
+            "Control Systems": 83,
+            "Power Systems": 80,
+            "Electric Circuits": 71,
+            "Power Electronics": 86,
+            "Renewable Energy": 89
+          },
+          "Completed": true,
+          "SGPA": 7.85
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 73.62,
+          "Subject Marks": {
+            "Electrical Machines": 64,
+            "Electromagnetic Fields": 67,
+            "Engineering Mathematics": 99,
+            "Control Systems": 73,
+            "Power Systems": 70,
+            "Electric Circuits": 61,
+            "Power Electronics": 76,
+            "Renewable Energy": 79
+          },
+          "Completed": true,
+          "SGPA": 7.36
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 79.0,
+          "Subject Marks": {
+            "Electrical Machines": 95,
+            "Electromagnetic Fields": 98,
+            "Engineering Mathematics": 89,
+            "Control Systems": 63,
+            "Power Systems": 60,
+            "Electric Circuits": 92,
+            "Power Electronics": 66,
+            "Renewable Energy": 69
+          },
+          "Completed": true,
+          "SGPA": 7.9
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 78.88,
+          "Subject Marks": {
+            "Electrical Machines": 100,
+            "Electromagnetic Fields": 62,
+            "Engineering Mathematics": 94,
+            "Control Systems": 68,
+            "Power Systems": 65,
+            "Electric Circuits": 97,
+            "Power Electronics": 71,
+            "Renewable Energy": 74
+          },
+          "Completed": true,
+          "SGPA": 7.89
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 73.5,
+          "Subject Marks": {
+            "Electrical Machines": 69,
+            "Electromagnetic Fields": 72,
+            "Engineering Mathematics": 63,
+            "Control Systems": 78,
+            "Power Systems": 75,
+            "Electric Circuits": 66,
+            "Power Electronics": 81,
+            "Renewable Energy": 84
+          },
+          "Completed": true,
+          "SGPA": 7.35
+        }
+      },
+      "SGPA": 7.85,
+      "CGPA": 7.67,
+      "Department": "Electrical and Electronics Engineering"
+    }
+  },
+  {
+    "number": 145,
+    "old_id": "7376241CS145",
+    "old_email": "student145.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "ECE",
+      "Semester": 5,
+      "Email": "student145.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Wireless Communication": 96,
+        "Signals and Systems": 87,
+        "Communication Systems": 90,
+        "Circuit Analysis": 78,
+        "Electronic Devices": 81,
+        "Engineering Mathematics": 75,
+        "Embedded Systems": 93,
+        "Digital Electronics": 84
+      },
+      "Name": "Student 145",
+      "Attendance": 85,
+      "RegisterNumber": "7376241CS145",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 85.5,
+          "Subject Marks": {
+            "Wireless Communication": 96,
+            "Signals and Systems": 87,
+            "Communication Systems": 90,
+            "Circuit Analysis": 78,
+            "Electronic Devices": 81,
+            "Engineering Mathematics": 75,
+            "Embedded Systems": 93,
+            "Digital Electronics": 84
+          },
+          "Completed": true,
+          "SGPA": 8.55
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 75.5,
+          "Subject Marks": {
+            "Wireless Communication": 86,
+            "Signals and Systems": 77,
+            "Communication Systems": 80,
+            "Circuit Analysis": 68,
+            "Electronic Devices": 71,
+            "Engineering Mathematics": 65,
+            "Embedded Systems": 83,
+            "Digital Electronics": 74
+          },
+          "Completed": true,
+          "SGPA": 7.55
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 75.75,
+          "Subject Marks": {
+            "Wireless Communication": 76,
+            "Signals and Systems": 67,
+            "Communication Systems": 70,
+            "Circuit Analysis": 99,
+            "Electronic Devices": 61,
+            "Engineering Mathematics": 96,
+            "Embedded Systems": 73,
+            "Digital Electronics": 64
+          },
+          "Completed": true,
+          "SGPA": 7.58
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 70.5,
+          "Subject Marks": {
+            "Wireless Communication": 81,
+            "Signals and Systems": 72,
+            "Communication Systems": 75,
+            "Circuit Analysis": 63,
+            "Electronic Devices": 66,
+            "Engineering Mathematics": 60,
+            "Embedded Systems": 78,
+            "Digital Electronics": 69
+          },
+          "Completed": true,
+          "SGPA": 7.05
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 80.5,
+          "Subject Marks": {
+            "Wireless Communication": 91,
+            "Signals and Systems": 82,
+            "Communication Systems": 85,
+            "Circuit Analysis": 73,
+            "Electronic Devices": 76,
+            "Engineering Mathematics": 70,
+            "Embedded Systems": 88,
+            "Digital Electronics": 79
+          },
+          "Completed": true,
+          "SGPA": 8.05
+        }
+      },
+      "SGPA": 8.55,
+      "CGPA": 7.76,
+      "Department": "Electronics and Communication Engineering"
+    }
+  },
+  {
+    "number": 146,
+    "old_id": "7376241CS146",
+    "old_email": "student146.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "IT",
+      "Semester": 5,
+      "Email": "student146.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 88,
+        "Database Systems": 91,
+        "Cloud Computing": 100,
+        "Programming": 82,
+        "Data Structures": 85,
+        "Information Security": 62,
+        "Operating Systems": 94,
+        "Web Technology": 97
+      },
+      "Name": "Student 146",
+      "Attendance": 90,
+      "RegisterNumber": "7376241CS146",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 87.38,
+          "Subject Marks": {
+            "OOP": 88,
+            "Database Systems": 91,
+            "Cloud Computing": 100,
+            "Programming": 82,
+            "Data Structures": 85,
+            "Information Security": 62,
+            "Operating Systems": 94,
+            "Web Technology": 97
+          },
+          "Completed": true,
+          "SGPA": 8.74
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 82.5,
+          "Subject Marks": {
+            "OOP": 78,
+            "Database Systems": 81,
+            "Cloud Computing": 90,
+            "Programming": 72,
+            "Data Structures": 75,
+            "Information Security": 93,
+            "Operating Systems": 84,
+            "Web Technology": 87
+          },
+          "Completed": true,
+          "SGPA": 8.25
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 72.5,
+          "Subject Marks": {
+            "OOP": 68,
+            "Database Systems": 71,
+            "Cloud Computing": 80,
+            "Programming": 62,
+            "Data Structures": 65,
+            "Information Security": 83,
+            "Operating Systems": 74,
+            "Web Technology": 77
+          },
+          "Completed": true,
+          "SGPA": 7.25
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 77.5,
+          "Subject Marks": {
+            "OOP": 73,
+            "Database Systems": 76,
+            "Cloud Computing": 85,
+            "Programming": 67,
+            "Data Structures": 70,
+            "Information Security": 88,
+            "Operating Systems": 79,
+            "Web Technology": 82
+          },
+          "Completed": true,
+          "SGPA": 7.75
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 87.5,
+          "Subject Marks": {
+            "OOP": 83,
+            "Database Systems": 86,
+            "Cloud Computing": 95,
+            "Programming": 77,
+            "Data Structures": 80,
+            "Information Security": 98,
+            "Operating Systems": 89,
+            "Web Technology": 92
+          },
+          "Completed": true,
+          "SGPA": 8.75
+        }
+      },
+      "SGPA": 8.74,
+      "CGPA": 8.15,
+      "Department": "Information Technology"
+    }
+  },
+  {
+    "number": 147,
+    "old_id": "7376241CS147",
+    "old_email": "student147.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "CSE",
+      "Semester": 5,
+      "Email": "student147.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 95,
+        "Computer Networks": 63,
+        "Database Systems": 98,
+        "Programming": 89,
+        "Data Structures": 92,
+        "Artificial Intelligence": 69,
+        "Software Engineering": 66,
+        "Operating Systems": 60
+      },
+      "Name": "Student 147",
+      "Attendance": 85,
+      "RegisterNumber": "7376241CS147",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 79.0,
+          "Subject Marks": {
+            "OOP": 95,
+            "Computer Networks": 63,
+            "Database Systems": 98,
+            "Programming": 89,
+            "Data Structures": 92,
+            "Artificial Intelligence": 69,
+            "Software Engineering": 66,
+            "Operating Systems": 60
+          },
+          "Completed": true,
+          "SGPA": 7.9
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 89.5,
+          "Subject Marks": {
+            "OOP": 85,
+            "Computer Networks": 94,
+            "Database Systems": 88,
+            "Programming": 79,
+            "Data Structures": 82,
+            "Artificial Intelligence": 100,
+            "Software Engineering": 97,
+            "Operating Systems": 91
+          },
+          "Completed": true,
+          "SGPA": 8.95
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 79.5,
+          "Subject Marks": {
+            "OOP": 75,
+            "Computer Networks": 84,
+            "Database Systems": 78,
+            "Programming": 69,
+            "Data Structures": 72,
+            "Artificial Intelligence": 90,
+            "Software Engineering": 87,
+            "Operating Systems": 81
+          },
+          "Completed": true,
+          "SGPA": 7.95
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 84.5,
+          "Subject Marks": {
+            "OOP": 80,
+            "Computer Networks": 89,
+            "Database Systems": 83,
+            "Programming": 74,
+            "Data Structures": 77,
+            "Artificial Intelligence": 95,
+            "Software Engineering": 92,
+            "Operating Systems": 86
+          },
+          "Completed": true,
+          "SGPA": 8.45
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 84.25,
+          "Subject Marks": {
+            "OOP": 90,
+            "Computer Networks": 99,
+            "Database Systems": 93,
+            "Programming": 84,
+            "Data Structures": 87,
+            "Artificial Intelligence": 64,
+            "Software Engineering": 61,
+            "Operating Systems": 96
+          },
+          "Completed": true,
+          "SGPA": 8.43
+        }
+      },
+      "SGPA": 7.9,
+      "CGPA": 8.34,
+      "Department": "Computer Science and Engineering"
+    }
+  },
+  {
+    "number": 148,
+    "old_id": "7376241CS148",
+    "old_email": "student148.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIDS",
+      "Semester": 5,
+      "Email": "student148.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Data Science": 76,
+        "Database Systems": 64,
+        "Deep Learning": 73,
+        "Programming": 96,
+        "Data Structures": 61,
+        "Statistics": 99,
+        "Machine Learning": 67,
+        "Data Analytics": 70
+      },
+      "Name": "Student 148",
+      "Attendance": 73,
+      "RegisterNumber": "7376241CS148",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 75.75,
+          "Subject Marks": {
+            "Data Science": 76,
+            "Database Systems": 64,
+            "Deep Learning": 73,
+            "Programming": 96,
+            "Data Structures": 61,
+            "Statistics": 99,
+            "Machine Learning": 67,
+            "Data Analytics": 70
+          },
+          "Completed": true,
+          "SGPA": 7.58
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 81.12,
+          "Subject Marks": {
+            "Data Science": 66,
+            "Database Systems": 95,
+            "Deep Learning": 63,
+            "Programming": 86,
+            "Data Structures": 92,
+            "Statistics": 89,
+            "Machine Learning": 98,
+            "Data Analytics": 60
+          },
+          "Completed": true,
+          "SGPA": 8.11
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 86.5,
+          "Subject Marks": {
+            "Data Science": 97,
+            "Database Systems": 85,
+            "Deep Learning": 94,
+            "Programming": 76,
+            "Data Structures": 82,
+            "Statistics": 79,
+            "Machine Learning": 88,
+            "Data Analytics": 91
+          },
+          "Completed": true,
+          "SGPA": 8.65
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 86.38,
+          "Subject Marks": {
+            "Data Science": 61,
+            "Database Systems": 90,
+            "Deep Learning": 99,
+            "Programming": 81,
+            "Data Structures": 87,
+            "Statistics": 84,
+            "Machine Learning": 93,
+            "Data Analytics": 96
+          },
+          "Completed": true,
+          "SGPA": 8.64
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 81.0,
+          "Subject Marks": {
+            "Data Science": 71,
+            "Database Systems": 100,
+            "Deep Learning": 68,
+            "Programming": 91,
+            "Data Structures": 97,
+            "Statistics": 94,
+            "Machine Learning": 62,
+            "Data Analytics": 65
+          },
+          "Completed": true,
+          "SGPA": 8.1
+        }
+      },
+      "SGPA": 7.58,
+      "CGPA": 8.22,
+      "Department": "Artificial Intelligence and Data Science"
+    }
+  },
+  {
+    "number": 149,
+    "old_id": "7376241CS149",
+    "old_email": "student149.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIML",
+      "Semester": 5,
+      "Email": "student149.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Deep Learning": 80,
+        "Programming": 62,
+        "Data Structures": 68,
+        "Linear Algebra": 65,
+        "Probability and Statistics": 71,
+        "Machine Learning": 74,
+        "Neural Networks": 77,
+        "AI Project": 83
+      },
+      "Name": "Student 149",
+      "Attendance": 78,
+      "RegisterNumber": "7376241CS149",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 72.5,
+          "Subject Marks": {
+            "Deep Learning": 80,
+            "Programming": 62,
+            "Data Structures": 68,
+            "Linear Algebra": 65,
+            "Probability and Statistics": 71,
+            "Machine Learning": 74,
+            "Neural Networks": 77,
+            "AI Project": 83
+          },
+          "Completed": true,
+          "SGPA": 7.25
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 77.88,
+          "Subject Marks": {
+            "Deep Learning": 70,
+            "Programming": 93,
+            "Data Structures": 99,
+            "Linear Algebra": 96,
+            "Probability and Statistics": 61,
+            "Machine Learning": 64,
+            "Neural Networks": 67,
+            "AI Project": 73
+          },
+          "Completed": true,
+          "SGPA": 7.79
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 83.25,
+          "Subject Marks": {
+            "Deep Learning": 60,
+            "Programming": 83,
+            "Data Structures": 89,
+            "Linear Algebra": 86,
+            "Probability and Statistics": 92,
+            "Machine Learning": 95,
+            "Neural Networks": 98,
+            "AI Project": 63
+          },
+          "Completed": true,
+          "SGPA": 8.32
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 83.12,
+          "Subject Marks": {
+            "Deep Learning": 65,
+            "Programming": 88,
+            "Data Structures": 94,
+            "Linear Algebra": 91,
+            "Probability and Statistics": 97,
+            "Machine Learning": 100,
+            "Neural Networks": 62,
+            "AI Project": 68
+          },
+          "Completed": true,
+          "SGPA": 8.31
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 72.62,
+          "Subject Marks": {
+            "Deep Learning": 75,
+            "Programming": 98,
+            "Data Structures": 63,
+            "Linear Algebra": 60,
+            "Probability and Statistics": 66,
+            "Machine Learning": 69,
+            "Neural Networks": 72,
+            "AI Project": 78
+          },
+          "Completed": true,
+          "SGPA": 7.26
+        }
+      },
+      "SGPA": 7.25,
+      "CGPA": 7.79,
+      "Department": "Artificial Intelligence and Machine Learning"
+    }
+  },
+  {
+    "number": 150,
+    "old_id": "7376241CS150",
+    "old_email": "student150.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "EEE",
+      "Semester": 5,
+      "Email": "student150.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Electrical Machines": 75,
+        "Electromagnetic Fields": 78,
+        "Engineering Mathematics": 69,
+        "Control Systems": 84,
+        "Power Systems": 81,
+        "Electric Circuits": 72,
+        "Power Electronics": 87,
+        "Renewable Energy": 90
+      },
+      "Name": "Student 150",
+      "Attendance": 83,
+      "RegisterNumber": "7376241CS150",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 79.5,
+          "Subject Marks": {
+            "Electrical Machines": 75,
+            "Electromagnetic Fields": 78,
+            "Engineering Mathematics": 69,
+            "Control Systems": 84,
+            "Power Systems": 81,
+            "Electric Circuits": 72,
+            "Power Electronics": 87,
+            "Renewable Energy": 90
+          },
+          "Completed": true,
+          "SGPA": 7.95
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 74.62,
+          "Subject Marks": {
+            "Electrical Machines": 65,
+            "Electromagnetic Fields": 68,
+            "Engineering Mathematics": 100,
+            "Control Systems": 74,
+            "Power Systems": 71,
+            "Electric Circuits": 62,
+            "Power Electronics": 77,
+            "Renewable Energy": 80
+          },
+          "Completed": true,
+          "SGPA": 7.46
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 80.0,
+          "Subject Marks": {
+            "Electrical Machines": 96,
+            "Electromagnetic Fields": 99,
+            "Engineering Mathematics": 90,
+            "Control Systems": 64,
+            "Power Systems": 61,
+            "Electric Circuits": 93,
+            "Power Electronics": 67,
+            "Renewable Energy": 70
+          },
+          "Completed": true,
+          "SGPA": 8.0
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 74.75,
+          "Subject Marks": {
+            "Electrical Machines": 60,
+            "Electromagnetic Fields": 63,
+            "Engineering Mathematics": 95,
+            "Control Systems": 69,
+            "Power Systems": 66,
+            "Electric Circuits": 98,
+            "Power Electronics": 72,
+            "Renewable Energy": 75
+          },
+          "Completed": true,
+          "SGPA": 7.47
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 74.5,
+          "Subject Marks": {
+            "Electrical Machines": 70,
+            "Electromagnetic Fields": 73,
+            "Engineering Mathematics": 64,
+            "Control Systems": 79,
+            "Power Systems": 76,
+            "Electric Circuits": 67,
+            "Power Electronics": 82,
+            "Renewable Energy": 85
+          },
+          "Completed": true,
+          "SGPA": 7.45
+        }
+      },
+      "SGPA": 7.95,
+      "CGPA": 7.67,
+      "Department": "Electrical and Electronics Engineering"
+    }
+  },
+  {
+    "number": 151,
+    "old_id": "7376241CS151",
+    "old_email": "student151.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "ECE",
+      "Semester": 5,
+      "Email": "student151.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Wireless Communication": 97,
+        "Signals and Systems": 88,
+        "Communication Systems": 91,
+        "Circuit Analysis": 79,
+        "Electronic Devices": 82,
+        "Engineering Mathematics": 76,
+        "Embedded Systems": 94,
+        "Digital Electronics": 85
+      },
+      "Name": "Student 151",
+      "Attendance": 86,
+      "RegisterNumber": "7376241CS151",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 86.5,
+          "Subject Marks": {
+            "Wireless Communication": 97,
+            "Signals and Systems": 88,
+            "Communication Systems": 91,
+            "Circuit Analysis": 79,
+            "Electronic Devices": 82,
+            "Engineering Mathematics": 76,
+            "Embedded Systems": 94,
+            "Digital Electronics": 85
+          },
+          "Completed": true,
+          "SGPA": 8.65
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 76.5,
+          "Subject Marks": {
+            "Wireless Communication": 87,
+            "Signals and Systems": 78,
+            "Communication Systems": 81,
+            "Circuit Analysis": 69,
+            "Electronic Devices": 72,
+            "Engineering Mathematics": 66,
+            "Embedded Systems": 84,
+            "Digital Electronics": 75
+          },
+          "Completed": true,
+          "SGPA": 7.65
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 76.75,
+          "Subject Marks": {
+            "Wireless Communication": 77,
+            "Signals and Systems": 68,
+            "Communication Systems": 71,
+            "Circuit Analysis": 100,
+            "Electronic Devices": 62,
+            "Engineering Mathematics": 97,
+            "Embedded Systems": 74,
+            "Digital Electronics": 65
+          },
+          "Completed": true,
+          "SGPA": 7.67
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 71.5,
+          "Subject Marks": {
+            "Wireless Communication": 82,
+            "Signals and Systems": 73,
+            "Communication Systems": 76,
+            "Circuit Analysis": 64,
+            "Electronic Devices": 67,
+            "Engineering Mathematics": 61,
+            "Embedded Systems": 79,
+            "Digital Electronics": 70
+          },
+          "Completed": true,
+          "SGPA": 7.15
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 81.5,
+          "Subject Marks": {
+            "Wireless Communication": 92,
+            "Signals and Systems": 83,
+            "Communication Systems": 86,
+            "Circuit Analysis": 74,
+            "Electronic Devices": 77,
+            "Engineering Mathematics": 71,
+            "Embedded Systems": 89,
+            "Digital Electronics": 80
+          },
+          "Completed": true,
+          "SGPA": 8.15
+        }
+      },
+      "SGPA": 8.65,
+      "CGPA": 7.85,
+      "Department": "Electronics and Communication Engineering"
+    }
+  },
+  {
+    "number": 152,
+    "old_id": "7376241CS152",
+    "old_email": "student152.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "IT",
+      "Semester": 5,
+      "Email": "student152.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 89,
+        "Database Systems": 92,
+        "Cloud Computing": 60,
+        "Programming": 83,
+        "Data Structures": 86,
+        "Information Security": 63,
+        "Operating Systems": 95,
+        "Web Technology": 98
+      },
+      "Name": "Student 152",
+      "Attendance": 89,
+      "RegisterNumber": "7376241CS152",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 83.25,
+          "Subject Marks": {
+            "OOP": 89,
+            "Database Systems": 92,
+            "Cloud Computing": 60,
+            "Programming": 83,
+            "Data Structures": 86,
+            "Information Security": 63,
+            "Operating Systems": 95,
+            "Web Technology": 98
+          },
+          "Completed": true,
+          "SGPA": 8.32
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 83.5,
+          "Subject Marks": {
+            "OOP": 79,
+            "Database Systems": 82,
+            "Cloud Computing": 91,
+            "Programming": 73,
+            "Data Structures": 76,
+            "Information Security": 94,
+            "Operating Systems": 85,
+            "Web Technology": 88
+          },
+          "Completed": true,
+          "SGPA": 8.35
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 73.5,
+          "Subject Marks": {
+            "OOP": 69,
+            "Database Systems": 72,
+            "Cloud Computing": 81,
+            "Programming": 63,
+            "Data Structures": 66,
+            "Information Security": 84,
+            "Operating Systems": 75,
+            "Web Technology": 78
+          },
+          "Completed": true,
+          "SGPA": 7.35
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 78.5,
+          "Subject Marks": {
+            "OOP": 74,
+            "Database Systems": 77,
+            "Cloud Computing": 86,
+            "Programming": 68,
+            "Data Structures": 71,
+            "Information Security": 89,
+            "Operating Systems": 80,
+            "Web Technology": 83
+          },
+          "Completed": true,
+          "SGPA": 7.85
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 88.5,
+          "Subject Marks": {
+            "OOP": 84,
+            "Database Systems": 87,
+            "Cloud Computing": 96,
+            "Programming": 78,
+            "Data Structures": 81,
+            "Information Security": 99,
+            "Operating Systems": 90,
+            "Web Technology": 93
+          },
+          "Completed": true,
+          "SGPA": 8.85
+        }
+      },
+      "SGPA": 8.32,
+      "CGPA": 8.14,
+      "Department": "Information Technology"
+    }
+  },
+  {
+    "number": 153,
+    "old_id": "7376241CS153",
+    "old_email": "student153.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "CSE",
+      "Semester": 5,
+      "Email": "student153.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "OOP": 96,
+        "Computer Networks": 64,
+        "Database Systems": 99,
+        "Programming": 90,
+        "Data Structures": 93,
+        "Artificial Intelligence": 70,
+        "Software Engineering": 67,
+        "Operating Systems": 61
+      },
+      "Name": "Student 153",
+      "Attendance": 92,
+      "RegisterNumber": "7376241CS153",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 80.0,
+          "Subject Marks": {
+            "OOP": 96,
+            "Computer Networks": 64,
+            "Database Systems": 99,
+            "Programming": 90,
+            "Data Structures": 93,
+            "Artificial Intelligence": 70,
+            "Software Engineering": 67,
+            "Operating Systems": 61
+          },
+          "Completed": true,
+          "SGPA": 8.0
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 85.38,
+          "Subject Marks": {
+            "OOP": 86,
+            "Computer Networks": 95,
+            "Database Systems": 89,
+            "Programming": 80,
+            "Data Structures": 83,
+            "Artificial Intelligence": 60,
+            "Software Engineering": 98,
+            "Operating Systems": 92
+          },
+          "Completed": true,
+          "SGPA": 8.54
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 80.5,
+          "Subject Marks": {
+            "OOP": 76,
+            "Computer Networks": 85,
+            "Database Systems": 79,
+            "Programming": 70,
+            "Data Structures": 73,
+            "Artificial Intelligence": 91,
+            "Software Engineering": 88,
+            "Operating Systems": 82
+          },
+          "Completed": true,
+          "SGPA": 8.05
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 85.5,
+          "Subject Marks": {
+            "OOP": 81,
+            "Computer Networks": 90,
+            "Database Systems": 84,
+            "Programming": 75,
+            "Data Structures": 78,
+            "Artificial Intelligence": 96,
+            "Software Engineering": 93,
+            "Operating Systems": 87
+          },
+          "Completed": true,
+          "SGPA": 8.55
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 85.25,
+          "Subject Marks": {
+            "OOP": 91,
+            "Computer Networks": 100,
+            "Database Systems": 94,
+            "Programming": 85,
+            "Data Structures": 88,
+            "Artificial Intelligence": 65,
+            "Software Engineering": 62,
+            "Operating Systems": 97
+          },
+          "Completed": true,
+          "SGPA": 8.53
+        }
+      },
+      "SGPA": 8.0,
+      "CGPA": 8.33,
+      "Department": "Computer Science and Engineering"
+    }
+  },
+  {
+    "number": 154,
+    "old_id": "7376241CS154",
+    "old_email": "student154.cs24@bitsathy.ac.in",
+    "data": {
+      "DepartmentCode": "AIDS",
+      "Semester": 5,
+      "Email": "student154.cs24@bitsathy.ac.in",
+      "Batch": "2024-2028",
+      "Subject Marks": {
+        "Data Science": 77,
+        "Database Systems": 65,
+        "Deep Learning": 74,
+        "Programming": 97,
+        "Data Structures": 62,
+        "Statistics": 100,
+        "Machine Learning": 68,
+        "Data Analytics": 71
+      },
+      "Name": "Student 154",
+      "Attendance": 70,
+      "RegisterNumber": "7376241CS154",
+      "Semester Results": {
+        "Semester 5": {
+          "Semester": 5,
+          "Average Marks": 76.75,
+          "Subject Marks": {
+            "Data Science": 77,
+            "Database Systems": 65,
+            "Deep Learning": 74,
+            "Programming": 97,
+            "Data Structures": 62,
+            "Statistics": 100,
+            "Machine Learning": 68,
+            "Data Analytics": 71
+          },
+          "Completed": true,
+          "SGPA": 7.67
+        },
+        "Semester 3": {
+          "Semester": 3,
+          "Average Marks": 82.12,
+          "Subject Marks": {
+            "Data Science": 67,
+            "Database Systems": 96,
+            "Deep Learning": 64,
+            "Programming": 87,
+            "Data Structures": 93,
+            "Statistics": 90,
+            "Machine Learning": 99,
+            "Data Analytics": 61
+          },
+          "Completed": true,
+          "SGPA": 8.21
+        },
+        "Semester 1": {
+          "Semester": 1,
+          "Average Marks": 87.5,
+          "Subject Marks": {
+            "Data Science": 98,
+            "Database Systems": 86,
+            "Deep Learning": 95,
+            "Programming": 77,
+            "Data Structures": 83,
+            "Statistics": 80,
+            "Machine Learning": 89,
+            "Data Analytics": 92
+          },
+          "Completed": true,
+          "SGPA": 8.75
+        },
+        "Semester 2": {
+          "Semester": 2,
+          "Average Marks": 87.38,
+          "Subject Marks": {
+            "Data Science": 62,
+            "Database Systems": 91,
+            "Deep Learning": 100,
+            "Programming": 82,
+            "Data Structures": 88,
+            "Statistics": 85,
+            "Machine Learning": 94,
+            "Data Analytics": 97
+          },
+          "Completed": true,
+          "SGPA": 8.74
+        },
+        "Semester 4": {
+          "Semester": 4,
+          "Average Marks": 76.88,
+          "Subject Marks": {
+            "Data Science": 72,
+            "Database Systems": 60,
+            "Deep Learning": 69,
+            "Programming": 92,
+            "Data Structures": 98,
+            "Statistics": 95,
+            "Machine Learning": 63,
+            "Data Analytics": 66
+          },
+          "Completed": true,
+          "SGPA": 7.69
+        }
+      },
+      "SGPA": 7.67,
+      "CGPA": 8.21,
+      "Department": "Artificial Intelligence and Data Science"
+    }
+  }
+]
